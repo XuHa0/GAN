@@ -1,0 +1,7962 @@
+Time
+#
+Log Message
+1.90
+0
+2020-01-27 17:21:59.561311: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudart.so.10.0
+1.90
+1
+2020-01-27 17:21:59.561311: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudart.so.10.0
+1.90
+2
+2020-01-27 17:21:59.561311: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudart.so.10.0
+1.90
+3
+2020-01-27 17:21:59.561311: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudart.so.10.0
+11.99
+4
+2020-01-27 17:22:09.649236: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcuda.so.1
+11.99
+5
+2020-01-27 17:22:09.649236: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcuda.so.1
+11.99
+6
+2020-01-27 17:22:09.649236: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcuda.so.1
+11.99
+7
+2020-01-27 17:22:09.649236: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcuda.so.1
+12.32
+8
+2020-01-27 17:22:09.986836: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+12.32
+9
+2020-01-27 17:22:09.986836: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+12.32
+10
+2020-01-27 17:22:09.986836: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+12.32
+11
+2020-01-27 17:22:09.986836: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+12.33
+12
+2020-01-27 17:22:09.988591: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1555] Found device 0 with properties:
+12.33
+13
+2020-01-27 17:22:09.988591: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1555] Found device 0 with properties:
+12.33
+14
+2020-01-27 17:22:09.988591: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1555] Found device 0 with properties:
+12.33
+15
+2020-01-27 17:22:09.988591: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1555] Found device 0 with properties:
+12.33
+16
+pciBusID: 0000:00:04.0 name: Tesla P100-PCIE-16GB computeCapability: 6.0
+12.33
+17
+pciBusID: 0000:00:04.0 name: Tesla P100-PCIE-16GB computeCapability: 6.0
+12.33
+18
+pciBusID: 0000:00:04.0 name: Tesla P100-PCIE-16GB computeCapability: 6.0
+12.33
+19
+pciBusID: 0000:00:04.0 name: Tesla P100-PCIE-16GB computeCapability: 6.0
+12.33
+20
+coreClock: 1.3285GHz coreCount: 56 deviceMemorySize: 15.90GiB deviceMemoryBandwidth: 681.88GiB/s
+12.33
+21
+coreClock: 1.3285GHz coreCount: 56 deviceMemorySize: 15.90GiB deviceMemoryBandwidth: 681.88GiB/s
+12.33
+22
+coreClock: 1.3285GHz coreCount: 56 deviceMemorySize: 15.90GiB deviceMemoryBandwidth: 681.88GiB/s
+12.33
+23
+coreClock: 1.3285GHz coreCount: 56 deviceMemorySize: 15.90GiB deviceMemoryBandwidth: 681.88GiB/s
+12.33
+24
+2020-01-27 17:22:09.988657: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudart.so.10.0
+12.33
+25
+2020-01-27 17:22:09.988657: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudart.so.10.0
+12.33
+26
+2020-01-27 17:22:09.988657: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudart.so.10.0
+12.33
+27
+2020-01-27 17:22:09.988657: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudart.so.10.0
+12.33
+28
+2020-01-27 17:22:09.988824: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcublas.so.10.0
+12.33
+29
+2020-01-27 17:22:09.988824: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcublas.so.10.0
+12.33
+30
+2020-01-27 17:22:09.988824: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcublas.so.10.0
+12.33
+31
+2020-01-27 17:22:09.988824: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcublas.so.10.0
+12.33
+32
+2020-01-27 17:22:09.988891: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcufft.so.10.0
+12.33
+33
+2020-01-27 17:22:09.988891: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcufft.so.10.0
+12.33
+34
+2020-01-27 17:22:09.988891: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcufft.so.10.0
+12.33
+35
+2020-01-27 17:22:09.988891: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcufft.so.10.0
+12.33
+36
+2020-01-27 17:22:09.988930: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcurand.so.10.0
+12.33
+37
+2020-01-27 17:22:09.988930: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcurand.so.10.0
+12.33
+38
+2020-01-27 17:22:09.988930: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcurand.so.10.0
+12.33
+39
+2020-01-27 17:22:09.988930: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcurand.so.10.0
+12.33
+40
+2020-01-27 17:22:09.988967: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcusolver.so.10.0
+12.33
+41
+2020-01-27 17:22:09.988967: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcusolver.so.10.0
+12.33
+42
+2020-01-27 17:22:09.988967: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcusolver.so.10.0
+12.33
+43
+2020-01-27 17:22:09.988967: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcusolver.so.10.0
+12.38
+44
+2020-01-27 17:22:10.045697: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcusparse.so.10.0
+12.38
+45
+2020-01-27 17:22:10.045697: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcusparse.so.10.0
+12.38
+46
+2020-01-27 17:22:10.045697: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcusparse.so.10.0
+12.38
+47
+2020-01-27 17:22:10.045697: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcusparse.so.10.0
+12.38
+48
+2020-01-27 17:22:10.045829: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudnn.so.7
+12.38
+49
+2020-01-27 17:22:10.045829: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudnn.so.7
+12.38
+50
+2020-01-27 17:22:10.045829: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudnn.so.7
+12.38
+51
+2020-01-27 17:22:10.045829: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudnn.so.7
+12.38
+52
+2020-01-27 17:22:10.046196: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+12.38
+53
+2020-01-27 17:22:10.046196: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+12.38
+54
+2020-01-27 17:22:10.046196: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+12.38
+55
+2020-01-27 17:22:10.046196: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+12.38
+56
+2020-01-27 17:22:10.047478: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+12.38
+57
+2020-01-27 17:22:10.047478: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+12.38
+58
+2020-01-27 17:22:10.047478: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+12.38
+59
+2020-01-27 17:22:10.047478: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+12.39
+60
+2020-01-27 17:22:10.048614: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1697] Adding visible gpu devices: 0
+12.39
+61
+2020-01-27 17:22:10.048614: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1697] Adding visible gpu devices: 0
+12.39
+62
+2020-01-27 17:22:10.048614: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1697] Adding visible gpu devices: 0
+12.39
+63
+2020-01-27 17:22:10.048614: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1697] Adding visible gpu devices: 0
+12.39
+64
+2020-01-27 17:22:10.050233: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX512F
+12.39
+65
+2020-01-27 17:22:10.050233: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX512F
+12.39
+66
+2020-01-27 17:22:10.050233: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX512F
+12.39
+67
+2020-01-27 17:22:10.050233: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX512F
+12.41
+68
+2020-01-27 17:22:10.073818: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2000155000 Hz
+12.41
+69
+2020-01-27 17:22:10.073818: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2000155000 Hz
+12.41
+70
+2020-01-27 17:22:10.073818: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2000155000 Hz
+12.41
+71
+2020-01-27 17:22:10.073818: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2000155000 Hz
+12.41
+72
+2020-01-27 17:22:10.074077: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x5626c84859e0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+12.41
+73
+2020-01-27 17:22:10.074077: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x5626c84859e0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+12.41
+74
+2020-01-27 17:22:10.074077: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x5626c84859e0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+12.41
+75
+2020-01-27 17:22:10.074077: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x5626c84859e0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+12.41
+76
+2020-01-27 17:22:10.074130: I tensorflow/compiler/xla/service/service.cc:176] StreamExecutor device (0): Host, Default Version
+12.41
+77
+2020-01-27 17:22:10.074130: I tensorflow/compiler/xla/service/service.cc:176] StreamExecutor device (0): Host, Default Version
+12.41
+78
+2020-01-27 17:22:10.074130: I tensorflow/compiler/xla/service/service.cc:176] StreamExecutor device (0): Host, Default Version
+12.41
+79
+2020-01-27 17:22:10.074130: I tensorflow/compiler/xla/service/service.cc:176] StreamExecutor device (0): Host, Default Version
+12.54
+80
+2020-01-27 17:22:10.199238: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+12.54
+81
+2020-01-27 17:22:10.199238: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+12.54
+82
+2020-01-27 17:22:10.199238: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+12.54
+83
+2020-01-27 17:22:10.199238: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+12.54
+84
+2020-01-27 17:22:10.200241: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x5626c8488460 initialized for platform CUDA (this does not guarantee that XLA will be used). Devices:
+12.54
+85
+2020-01-27 17:22:10.200241: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x5626c8488460 initialized for platform CUDA (this does not guarantee that XLA will be used). Devices:
+12.54
+86
+2020-01-27 17:22:10.200241: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x5626c8488460 initialized for platform CUDA (this does not guarantee that XLA will be used). Devices:
+12.54
+87
+2020-01-27 17:22:10.200241: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x5626c8488460 initialized for platform CUDA (this does not guarantee that XLA will be used). Devices:
+12.54
+88
+2020-01-27 17:22:10.200398: I tensorflow/compiler/xla/service/service.cc:176] StreamExecutor device (0): Tesla P100-PCIE-16GB, Compute Capability 6.0
+12.54
+89
+2020-01-27 17:22:10.200398: I tensorflow/compiler/xla/service/service.cc:176] StreamExecutor device (0): Tesla P100-PCIE-16GB, Compute Capability 6.0
+12.54
+90
+2020-01-27 17:22:10.200398: I tensorflow/compiler/xla/service/service.cc:176] StreamExecutor device (0): Tesla P100-PCIE-16GB, Compute Capability 6.0
+12.54
+91
+2020-01-27 17:22:10.200398: I tensorflow/compiler/xla/service/service.cc:176] StreamExecutor device (0): Tesla P100-PCIE-16GB, Compute Capability 6.0
+12.54
+92
+2020-01-27 17:22:10.201722: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+12.54
+93
+2020-01-27 17:22:10.201722: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+12.54
+94
+2020-01-27 17:22:10.201722: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+12.54
+95
+2020-01-27 17:22:10.201722: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+12.54
+96
+2020-01-27 17:22:10.202705: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1555] Found device 0 with properties:
+12.54
+97
+2020-01-27 17:22:10.202705: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1555] Found device 0 with properties:
+12.54
+98
+2020-01-27 17:22:10.202705: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1555] Found device 0 with properties:
+12.54
+99
+2020-01-27 17:22:10.202705: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1555] Found device 0 with properties:
+12.54
+100
+pciBusID: 0000:00:04.0 name: Tesla P100-PCIE-16GB computeCapability: 6.0
+12.54
+101
+pciBusID: 0000:00:04.0 name: Tesla P100-PCIE-16GB computeCapability: 6.0
+12.54
+102
+pciBusID: 0000:00:04.0 name: Tesla P100-PCIE-16GB computeCapability: 6.0
+12.54
+103
+pciBusID: 0000:00:04.0 name: Tesla P100-PCIE-16GB computeCapability: 6.0
+12.54
+104
+coreClock: 1.3285GHz coreCount: 56 deviceMemorySize: 15.90GiB deviceMemoryBandwidth: 681.88GiB/s
+12.54
+105
+coreClock: 1.3285GHz coreCount: 56 deviceMemorySize: 15.90GiB deviceMemoryBandwidth: 681.88GiB/s
+12.54
+106
+coreClock: 1.3285GHz coreCount: 56 deviceMemorySize: 15.90GiB deviceMemoryBandwidth: 681.88GiB/s
+12.54
+107
+coreClock: 1.3285GHz coreCount: 56 deviceMemorySize: 15.90GiB deviceMemoryBandwidth: 681.88GiB/s
+12.54
+108
+2020-01-27 17:22:10.202768: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudart.so.10.0
+12.54
+109
+2020-01-27 17:22:10.202768: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudart.so.10.0
+12.54
+110
+2020-01-27 17:22:10.202768: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudart.so.10.0
+12.54
+111
+2020-01-27 17:22:10.202768: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudart.so.10.0
+12.54
+112
+2020-01-27 17:22:10.202804: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcublas.so.10.0
+12.54
+113
+2020-01-27 17:22:10.202804: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcublas.so.10.0
+12.54
+114
+2020-01-27 17:22:10.202804: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcublas.so.10.0
+12.54
+115
+2020-01-27 17:22:10.202804: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcublas.so.10.0
+12.54
+116
+2020-01-27 17:22:10.202829: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcufft.so.10.0
+12.54
+117
+2020-01-27 17:22:10.202829: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcufft.so.10.0
+12.54
+118
+2020-01-27 17:22:10.202829: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcufft.so.10.0
+12.54
+119
+2020-01-27 17:22:10.202829: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcufft.so.10.0
+12.54
+120
+2020-01-27 17:22:10.202846: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcurand.so.10.0
+12.54
+121
+2020-01-27 17:22:10.202846: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcurand.so.10.0
+12.54
+122
+2020-01-27 17:22:10.202846: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcurand.so.10.0
+12.54
+123
+2020-01-27 17:22:10.202846: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcurand.so.10.0
+12.54
+124
+2020-01-27 17:22:10.202866: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcusolver.so.10.0
+12.54
+125
+2020-01-27 17:22:10.202866: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcusolver.so.10.0
+12.54
+126
+2020-01-27 17:22:10.202866: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcusolver.so.10.0
+12.54
+127
+2020-01-27 17:22:10.202866: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcusolver.so.10.0
+12.54
+128
+2020-01-27 17:22:10.202925: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcusparse.so.10.0
+12.54
+129
+2020-01-27 17:22:10.202925: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcusparse.so.10.0
+12.54
+130
+2020-01-27 17:22:10.202925: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcusparse.so.10.0
+12.54
+131
+2020-01-27 17:22:10.202925: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcusparse.so.10.0
+12.54
+132
+2020-01-27 17:22:10.203166: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudnn.so.7
+12.54
+133
+2020-01-27 17:22:10.203166: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudnn.so.7
+12.54
+134
+2020-01-27 17:22:10.203166: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudnn.so.7
+12.54
+135
+2020-01-27 17:22:10.203166: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudnn.so.7
+12.54
+136
+2020-01-27 17:22:10.203357: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+12.54
+137
+2020-01-27 17:22:10.203357: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+12.54
+138
+2020-01-27 17:22:10.203357: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+12.54
+139
+2020-01-27 17:22:10.203357: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+12.54
+140
+2020-01-27 17:22:10.204404: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+12.54
+141
+2020-01-27 17:22:10.204404: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+12.54
+142
+2020-01-27 17:22:10.204404: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+12.54
+143
+2020-01-27 17:22:10.204404: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+12.54
+144
+2020-01-27 17:22:10.205293: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1697] Adding visible gpu devices: 0
+12.54
+145
+2020-01-27 17:22:10.205293: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1697] Adding visible gpu devices: 0
+12.54
+146
+2020-01-27 17:22:10.205293: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1697] Adding visible gpu devices: 0
+12.54
+147
+2020-01-27 17:22:10.205293: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1697] Adding visible gpu devices: 0
+12.54
+148
+2020-01-27 17:22:10.206838: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudart.so.10.0
+12.54
+149
+2020-01-27 17:22:10.206838: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudart.so.10.0
+12.54
+150
+2020-01-27 17:22:10.206838: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudart.so.10.0
+12.54
+151
+2020-01-27 17:22:10.206838: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudart.so.10.0
+14.61
+152
+2020-01-27 17:22:12.271552: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1096] Device interconnect StreamExecutor with strength 1 edge matrix:
+14.61
+153
+2020-01-27 17:22:12.271552: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1096] Device interconnect StreamExecutor with strength 1 edge matrix:
+14.61
+154
+2020-01-27 17:22:12.271552: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1096] Device interconnect StreamExecutor with strength 1 edge matrix:
+14.61
+155
+2020-01-27 17:22:12.271552: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1096] Device interconnect StreamExecutor with strength 1 edge matrix:
+14.61
+156
+2020-01-27 17:22:12.271639: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1102] 0
+14.61
+157
+2020-01-27 17:22:12.271639: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1102] 0
+14.61
+158
+2020-01-27 17:22:12.271639: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1102] 0
+14.61
+159
+2020-01-27 17:22:12.271639: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1102] 0
+14.61
+160
+2020-01-27 17:22:12.271659: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] 0: N
+14.61
+161
+2020-01-27 17:22:12.271659: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] 0: N
+14.61
+162
+2020-01-27 17:22:12.271659: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] 0: N
+14.61
+163
+2020-01-27 17:22:12.271659: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] 0: N
+14.61
+164
+2020-01-27 17:22:12.272175: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+14.61
+165
+2020-01-27 17:22:12.272175: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+14.61
+166
+2020-01-27 17:22:12.272175: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+14.61
+167
+2020-01-27 17:22:12.272175: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+14.61
+168
+2020-01-27 17:22:12.273295: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+14.61
+169
+2020-01-27 17:22:12.273295: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+14.61
+170
+2020-01-27 17:22:12.273295: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+14.61
+171
+2020-01-27 17:22:12.273295: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+14.61
+172
+2020-01-27 17:22:12.274240: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1241] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 15133 MB memory) -> physical GPU (device: 0, name: Tesla P100-PCIE-16GB, pci bus id: 0000:00:04.0, compute capability: 6.0)
+14.61
+173
+2020-01-27 17:22:12.274240: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1241] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 15133 MB memory) -> physical GPU (device: 0, name: Tesla P100-PCIE-16GB, pci bus id: 0000:00:04.0, compute capability: 6.0)
+14.61
+174
+2020-01-27 17:22:12.274240: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1241] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 15133 MB memory) -> physical GPU (device: 0, name: Tesla P100-PCIE-16GB, pci bus id: 0000:00:04.0, compute capability: 6.0)
+14.61
+175
+2020-01-27 17:22:12.274240: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1241] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 15133 MB memory) -> physical GPU (device: 0, name: Tesla P100-PCIE-16GB, pci bus id: 0000:00:04.0, compute capability: 6.0)
+15.35
+176
+<PrefetchDataset shapes: (512, 64, 64, 3), types: tf.float32> (64, 64, 3)
+15.35
+177
+<PrefetchDataset shapes: (512, 64, 64, 3), types: tf.float32> (64, 64, 3)
+15.35
+178
+<PrefetchDataset shapes: (512, 64, 64, 3), types: tf.float32> (64, 64, 3)
+15.35
+179
+<PrefetchDataset shapes: (512, 64, 64, 3), types: tf.float32> (64, 64, 3)
+16.26
+180
+(512, 64, 64, 3) 1.0 -1.0
+16.26
+181
+(512, 64, 64, 3) 1.0 -1.0
+16.26
+182
+(512, 64, 64, 3) 1.0 -1.0
+16.26
+183
+(512, 64, 64, 3) 1.0 -1.0
+17.24
+184
+2020-01-27 17:22:14.906289: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcublas.so.10.0
+17.24
+185
+2020-01-27 17:22:14.906289: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcublas.so.10.0
+17.24
+186
+2020-01-27 17:22:14.906289: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcublas.so.10.0
+17.24
+187
+2020-01-27 17:22:14.906289: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcublas.so.10.0
+18.13
+188
+2020-01-27 17:22:15.790142: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudnn.so.7
+18.13
+189
+2020-01-27 17:22:15.790142: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudnn.so.7
+18.13
+190
+2020-01-27 17:22:15.790142: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudnn.so.7
+18.13
+191
+2020-01-27 17:22:15.790142: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudnn.so.7
+21.42
+192
+0
+21.42
+193
+0
+21.42
+194
+0
+21.42
+195
+0
+21.42
+196
+0 d-loss: 1.653658151626587 g-loss: 1.88011634349823
+21.42
+197
+0 d-loss: 1.653658151626587 g-loss: 1.88011634349823
+21.42
+198
+0 d-loss: 1.653658151626587 g-loss: 1.88011634349823
+21.42
+199
+0 d-loss: 1.653658151626587 g-loss: 1.88011634349823
+95.86
+200
+100
+95.86
+201
+100
+95.86
+202
+100
+95.87
+203
+100 d-loss: 1.3541841506958008 g-loss: 0.744637131690979
+95.87
+204
+100 d-loss: 1.3541841506958008 g-loss: 0.744637131690979
+95.87
+205
+100 d-loss: 1.3541841506958008 g-loss: 0.744637131690979
+123.45
+206
+200
+123.45
+207
+200
+123.45
+208
+200
+123.45
+209
+200 d-loss: 1.3987948894500732 g-loss: 0.7759870290756226
+123.45
+210
+200 d-loss: 1.3987948894500732 g-loss: 0.7759870290756226
+123.45
+211
+200 d-loss: 1.3987948894500732 g-loss: 0.7759870290756226
+157.50
+212
+300
+157.50
+213
+300
+157.50
+214
+300
+157.51
+215
+300 d-loss: 1.319488763809204 g-loss: 0.7951177954673767
+157.51
+216
+300 d-loss: 1.319488763809204 g-loss: 0.7951177954673767
+157.51
+217
+300 d-loss: 1.319488763809204 g-loss: 0.7951177954673767
+185.08
+218
+400
+185.08
+219
+400
+185.08
+220
+400
+185.08
+221
+400 d-loss: 1.3752450942993164 g-loss: 0.7330935001373291
+185.08
+222
+400 d-loss: 1.3752450942993164 g-loss: 0.7330935001373291
+185.08
+223
+400 d-loss: 1.3752450942993164 g-loss: 0.7330935001373291
+211.65
+224
+500
+211.65
+225
+500
+211.65
+226
+500
+211.65
+227
+500 d-loss: 1.3378148078918457 g-loss: 0.7794114947319031
+211.65
+228
+500 d-loss: 1.3378148078918457 g-loss: 0.7794114947319031
+211.65
+229
+500 d-loss: 1.3378148078918457 g-loss: 0.7794114947319031
+238.19
+230
+600
+238.19
+231
+600
+238.19
+232
+600
+238.19
+233
+600 d-loss: 1.3338029384613037 g-loss: 0.7539194822311401
+238.19
+234
+600 d-loss: 1.3338029384613037 g-loss: 0.7539194822311401
+238.19
+235
+600 d-loss: 1.3338029384613037 g-loss: 0.7539194822311401
+265.14
+236
+700
+265.14
+237
+700
+265.14
+238
+700
+265.14
+239
+700 d-loss: 1.3706653118133545 g-loss: 0.781901478767395
+265.14
+240
+700 d-loss: 1.3706653118133545 g-loss: 0.781901478767395
+265.14
+241
+700 d-loss: 1.3706653118133545 g-loss: 0.781901478767395
+291.14
+242
+800
+291.14
+243
+800
+291.14
+244
+800
+291.14
+245
+800 d-loss: 1.353786587715149 g-loss: 0.7806156873703003
+291.14
+246
+800 d-loss: 1.353786587715149 g-loss: 0.7806156873703003
+291.14
+247
+800 d-loss: 1.353786587715149 g-loss: 0.7806156873703003
+318.66
+248
+900
+318.66
+249
+900
+318.66
+250
+900
+318.66
+251
+900 d-loss: 1.3695836067199707 g-loss: 0.7863612174987793
+318.66
+252
+900 d-loss: 1.3695836067199707 g-loss: 0.7863612174987793
+318.66
+253
+900 d-loss: 1.3695836067199707 g-loss: 0.7863612174987793
+344.61
+254
+1000
+344.61
+255
+1000
+344.61
+256
+1000
+344.61
+257
+1000 d-loss: 1.382408618927002 g-loss: 0.7546623349189758
+344.61
+258
+1000 d-loss: 1.382408618927002 g-loss: 0.7546623349189758
+344.61
+259
+1000 d-loss: 1.382408618927002 g-loss: 0.7546623349189758
+371.39
+260
+1100
+371.39
+261
+1100
+371.39
+262
+1100
+371.39
+263
+1100 d-loss: 1.3428754806518555 g-loss: 0.8162641525268555
+371.39
+264
+1100 d-loss: 1.3428754806518555 g-loss: 0.8162641525268555
+371.39
+265
+1100 d-loss: 1.3428754806518555 g-loss: 0.8162641525268555
+397.90
+266
+1200
+397.90
+267
+1200
+397.90
+268
+1200
+397.91
+269
+1200 d-loss: 1.4114688634872437 g-loss: 0.8557032942771912
+397.91
+270
+1200 d-loss: 1.4114688634872437 g-loss: 0.8557032942771912
+397.91
+271
+1200 d-loss: 1.4114688634872437 g-loss: 0.8557032942771912
+425.23
+272
+1300
+425.23
+273
+1300
+425.23
+274
+1300
+425.23
+275
+1300 d-loss: 1.316352128982544 g-loss: 0.799932599067688
+425.23
+276
+1300 d-loss: 1.316352128982544 g-loss: 0.799932599067688
+425.23
+277
+1300 d-loss: 1.316352128982544 g-loss: 0.799932599067688
+451.71
+278
+1400
+451.71
+279
+1400
+451.71
+280
+1400
+451.71
+281
+1400 d-loss: 1.3422380685806274 g-loss: 0.8194231986999512
+451.71
+282
+1400 d-loss: 1.3422380685806274 g-loss: 0.8194231986999512
+451.71
+283
+1400 d-loss: 1.3422380685806274 g-loss: 0.8194231986999512
+478.96
+284
+1500
+478.96
+285
+1500
+478.96
+286
+1500
+478.96
+287
+1500 d-loss: 1.3808537721633911 g-loss: 0.8230641484260559
+478.96
+288
+1500 d-loss: 1.3808537721633911 g-loss: 0.8230641484260559
+478.96
+289
+1500 d-loss: 1.3808537721633911 g-loss: 0.8230641484260559
+505.33
+290
+1600
+505.33
+291
+1600
+505.33
+292
+1600
+505.34
+293
+1600 d-loss: 1.3226913213729858 g-loss: 0.8204895257949829
+505.34
+294
+1600 d-loss: 1.3226913213729858 g-loss: 0.8204895257949829
+505.34
+295
+1600 d-loss: 1.3226913213729858 g-loss: 0.8204895257949829
+531.27
+296
+1700
+531.27
+297
+1700
+531.27
+298
+1700
+531.27
+299
+1700 d-loss: 1.3987605571746826 g-loss: 1.0501620769500732
+531.27
+300
+1700 d-loss: 1.3987605571746826 g-loss: 1.0501620769500732
+531.27
+301
+1700 d-loss: 1.3987605571746826 g-loss: 1.0501620769500732
+558.11
+302
+1800
+558.11
+303
+1800
+558.11
+304
+1800
+558.11
+305
+1800 d-loss: 1.3018546104431152 g-loss: 0.8838553428649902
+558.11
+306
+1800 d-loss: 1.3018546104431152 g-loss: 0.8838553428649902
+558.11
+307
+1800 d-loss: 1.3018546104431152 g-loss: 0.8838553428649902
+583.71
+308
+1900
+583.71
+309
+1900
+583.71
+310
+1900
+583.72
+311
+1900 d-loss: 1.3028504848480225 g-loss: 0.8989304304122925
+583.72
+312
+1900 d-loss: 1.3028504848480225 g-loss: 0.8989304304122925
+583.72
+313
+1900 d-loss: 1.3028504848480225 g-loss: 0.8989304304122925
+610.54
+314
+2000
+610.54
+315
+2000
+610.54
+316
+2000
+610.55
+317
+2000 d-loss: 1.3160855770111084 g-loss: 0.9887365698814392
+610.55
+318
+2000 d-loss: 1.3160855770111084 g-loss: 0.9887365698814392
+610.55
+319
+2000 d-loss: 1.3160855770111084 g-loss: 0.9887365698814392
+637.40
+320
+2100
+637.40
+321
+2100
+637.40
+322
+2100
+637.41
+323
+2100 d-loss: 1.281503677368164 g-loss: 0.9081929326057434
+637.41
+324
+2100 d-loss: 1.281503677368164 g-loss: 0.9081929326057434
+637.41
+325
+2100 d-loss: 1.281503677368164 g-loss: 0.9081929326057434
+664.01
+326
+2200
+664.01
+327
+2200
+664.01
+328
+2200
+664.01
+329
+2200 d-loss: 1.3062080144882202 g-loss: 0.8563827872276306
+664.01
+330
+2200 d-loss: 1.3062080144882202 g-loss: 0.8563827872276306
+664.01
+331
+2200 d-loss: 1.3062080144882202 g-loss: 0.8563827872276306
+690.00
+332
+2300
+690.00
+333
+2300
+690.00
+334
+2300
+690.00
+335
+2300 d-loss: 1.2141568660736084 g-loss: 0.9301608800888062
+690.00
+336
+2300 d-loss: 1.2141568660736084 g-loss: 0.9301608800888062
+690.00
+337
+2300 d-loss: 1.2141568660736084 g-loss: 0.9301608800888062
+715.92
+338
+2400
+715.92
+339
+2400
+715.92
+340
+2400
+715.92
+341
+2400 d-loss: 1.2756677865982056 g-loss: 0.9776159524917603
+715.92
+342
+2400 d-loss: 1.2756677865982056 g-loss: 0.9776159524917603
+715.92
+343
+2400 d-loss: 1.2756677865982056 g-loss: 0.9776159524917603
+742.52
+344
+2500
+742.52
+345
+2500
+742.52
+346
+2500
+742.52
+347
+2500 d-loss: 1.276588797569275 g-loss: 0.9921113848686218
+742.52
+348
+2500 d-loss: 1.276588797569275 g-loss: 0.9921113848686218
+742.52
+349
+2500 d-loss: 1.276588797569275 g-loss: 0.9921113848686218
+768.77
+350
+2600
+768.77
+351
+2600
+768.77
+352
+2600
+768.77
+353
+2600 d-loss: 1.2106571197509766 g-loss: 1.0531959533691406
+768.77
+354
+2600 d-loss: 1.2106571197509766 g-loss: 1.0531959533691406
+768.77
+355
+2600 d-loss: 1.2106571197509766 g-loss: 1.0531959533691406
+796.51
+356
+2700
+796.51
+357
+2700
+796.51
+358
+2700
+796.52
+359
+2700 d-loss: 1.3748621940612793 g-loss: 0.8969171047210693
+796.52
+360
+2700 d-loss: 1.3748621940612793 g-loss: 0.8969171047210693
+796.52
+361
+2700 d-loss: 1.3748621940612793 g-loss: 0.8969171047210693
+822.16
+362
+2800
+822.16
+363
+2800
+822.16
+364
+2800
+822.17
+365
+2800 d-loss: 1.5326159000396729 g-loss: 1.6495466232299805
+822.17
+366
+2800 d-loss: 1.5326159000396729 g-loss: 1.6495466232299805
+822.17
+367
+2800 d-loss: 1.5326159000396729 g-loss: 1.6495466232299805
+849.47
+368
+2900
+849.47
+369
+2900
+849.47
+370
+2900
+849.47
+371
+2900 d-loss: 1.1935501098632812 g-loss: 1.0321075916290283
+849.47
+372
+2900 d-loss: 1.1935501098632812 g-loss: 1.0321075916290283
+849.47
+373
+2900 d-loss: 1.1935501098632812 g-loss: 1.0321075916290283
+875.41
+374
+3000
+875.41
+375
+3000
+875.41
+376
+3000
+875.41
+377
+3000 d-loss: 1.2179025411605835 g-loss: 1.1307461261749268
+875.41
+378
+3000 d-loss: 1.2179025411605835 g-loss: 1.1307461261749268
+875.41
+379
+3000 d-loss: 1.2179025411605835 g-loss: 1.1307461261749268
+901.76
+380
+3100
+901.76
+381
+3100
+901.76
+382
+3100
+901.76
+383
+3100 d-loss: 1.1782249212265015 g-loss: 1.0887242555618286
+901.76
+384
+3100 d-loss: 1.1782249212265015 g-loss: 1.0887242555618286
+901.76
+385
+3100 d-loss: 1.1782249212265015 g-loss: 1.0887242555618286
+928.31
+386
+3200
+928.31
+387
+3200
+928.31
+388
+3200
+928.31
+389
+3200 d-loss: 1.268569827079773 g-loss: 1.1855969429016113
+928.31
+390
+3200 d-loss: 1.268569827079773 g-loss: 1.1855969429016113
+928.31
+391
+3200 d-loss: 1.268569827079773 g-loss: 1.1855969429016113
+955.16
+392
+3300
+955.16
+393
+3300
+955.16
+394
+3300
+955.16
+395
+3300 d-loss: 1.161651372909546 g-loss: 1.051477313041687
+955.16
+396
+3300 d-loss: 1.161651372909546 g-loss: 1.051477313041687
+955.16
+397
+3300 d-loss: 1.161651372909546 g-loss: 1.051477313041687
+982.80
+398
+3400
+982.80
+399
+3400
+982.80
+400
+3400
+982.80
+401
+3400 d-loss: 1.1862690448760986 g-loss: 0.9745144248008728
+982.80
+402
+3400 d-loss: 1.1862690448760986 g-loss: 0.9745144248008728
+982.80
+403
+3400 d-loss: 1.1862690448760986 g-loss: 0.9745144248008728
+1009.31
+404
+3500
+1009.31
+405
+3500
+1009.31
+406
+3500
+1009.32
+407
+3500 d-loss: 1.1489717960357666 g-loss: 1.3230476379394531
+1009.32
+408
+3500 d-loss: 1.1489717960357666 g-loss: 1.3230476379394531
+1009.32
+409
+3500 d-loss: 1.1489717960357666 g-loss: 1.3230476379394531
+1036.42
+410
+3600
+1036.42
+411
+3600
+1036.42
+412
+3600
+1036.43
+413
+3600 d-loss: 1.1920592784881592 g-loss: 1.154066562652588
+1036.43
+414
+3600 d-loss: 1.1920592784881592 g-loss: 1.154066562652588
+1036.43
+415
+3600 d-loss: 1.1920592784881592 g-loss: 1.154066562652588
+1062.98
+416
+3700
+1062.98
+417
+3700
+1062.98
+418
+3700
+1062.98
+419
+3700 d-loss: 1.1549220085144043 g-loss: 1.1435092687606812
+1062.98
+420
+3700 d-loss: 1.1549220085144043 g-loss: 1.1435092687606812
+1062.98
+421
+3700 d-loss: 1.1549220085144043 g-loss: 1.1435092687606812
+1091.07
+422
+3800
+1091.07
+423
+3800
+1091.07
+424
+3800
+1091.07
+425
+3800 d-loss: 1.1801832914352417 g-loss: 1.1173427104949951
+1091.07
+426
+3800 d-loss: 1.1801832914352417 g-loss: 1.1173427104949951
+1091.07
+427
+3800 d-loss: 1.1801832914352417 g-loss: 1.1173427104949951
+1117.26
+428
+3900
+1117.26
+429
+3900
+1117.26
+430
+3900
+1117.26
+431
+3900 d-loss: 1.1866317987442017 g-loss: 0.9597848057746887
+1117.26
+432
+3900 d-loss: 1.1866317987442017 g-loss: 0.9597848057746887
+1117.26
+433
+3900 d-loss: 1.1866317987442017 g-loss: 0.9597848057746887
+1143.47
+434
+4000
+1143.47
+435
+4000
+1143.47
+436
+4000
+1143.47
+437
+4000 d-loss: 1.1012282371520996 g-loss: 0.8576138019561768
+1143.47
+438
+4000 d-loss: 1.1012282371520996 g-loss: 0.8576138019561768
+1143.47
+439
+4000 d-loss: 1.1012282371520996 g-loss: 0.8576138019561768
+1169.87
+440
+4100
+1169.87
+441
+4100
+1169.87
+442
+4100
+1169.87
+443
+4100 d-loss: 1.1154205799102783 g-loss: 1.1300196647644043
+1169.87
+444
+4100 d-loss: 1.1154205799102783 g-loss: 1.1300196647644043
+1169.87
+445
+4100 d-loss: 1.1154205799102783 g-loss: 1.1300196647644043
+1195.54
+446
+4200
+1195.54
+447
+4200
+1195.54
+448
+4200
+1195.55
+449
+4200 d-loss: 1.0765371322631836 g-loss: 1.1090247631072998
+1195.55
+450
+4200 d-loss: 1.0765371322631836 g-loss: 1.1090247631072998
+1195.55
+451
+4200 d-loss: 1.0765371322631836 g-loss: 1.1090247631072998
+1222.79
+452
+4300
+1222.79
+453
+4300
+1222.79
+454
+4300
+1222.79
+455
+4300 d-loss: 1.2042787075042725 g-loss: 1.6133406162261963
+1222.79
+456
+4300 d-loss: 1.2042787075042725 g-loss: 1.6133406162261963
+1222.79
+457
+4300 d-loss: 1.2042787075042725 g-loss: 1.6133406162261963
+1248.46
+458
+4400
+1248.46
+459
+4400
+1248.46
+460
+4400
+1248.47
+461
+4400 d-loss: 1.167206048965454 g-loss: 1.0224870443344116
+1248.47
+462
+4400 d-loss: 1.167206048965454 g-loss: 1.0224870443344116
+1248.47
+463
+4400 d-loss: 1.167206048965454 g-loss: 1.0224870443344116
+1274.83
+464
+4500
+1274.83
+465
+4500
+1274.83
+466
+4500
+1274.83
+467
+4500 d-loss: 1.0960283279418945 g-loss: 1.2367043495178223
+1274.83
+468
+4500 d-loss: 1.0960283279418945 g-loss: 1.2367043495178223
+1274.83
+469
+4500 d-loss: 1.0960283279418945 g-loss: 1.2367043495178223
+1300.28
+470
+4600
+1300.28
+471
+4600
+1300.28
+472
+4600
+1300.29
+473
+4600 d-loss: 1.0337934494018555 g-loss: 1.124729871749878
+1300.29
+474
+4600 d-loss: 1.0337934494018555 g-loss: 1.124729871749878
+1300.29
+475
+4600 d-loss: 1.0337934494018555 g-loss: 1.124729871749878
+1326.47
+476
+4700
+1326.47
+477
+4700
+1326.47
+478
+4700
+1326.47
+479
+4700 d-loss: 1.0511157512664795 g-loss: 1.275505781173706
+1326.47
+480
+4700 d-loss: 1.0511157512664795 g-loss: 1.275505781173706
+1326.47
+481
+4700 d-loss: 1.0511157512664795 g-loss: 1.275505781173706
+1352.34
+482
+4800
+1352.34
+483
+4800
+1352.34
+484
+4800
+1352.34
+485
+4800 d-loss: 0.9914690852165222 g-loss: 1.6099902391433716
+1352.34
+486
+4800 d-loss: 0.9914690852165222 g-loss: 1.6099902391433716
+1352.34
+487
+4800 d-loss: 0.9914690852165222 g-loss: 1.6099902391433716
+1378.16
+488
+4900
+1378.16
+489
+4900
+1378.16
+490
+4900
+1378.16
+491
+4900 d-loss: 1.0591803789138794 g-loss: 1.0646288394927979
+1378.16
+492
+4900 d-loss: 1.0591803789138794 g-loss: 1.0646288394927979
+1378.16
+493
+4900 d-loss: 1.0591803789138794 g-loss: 1.0646288394927979
+1404.82
+494
+5000
+1404.82
+495
+5000
+1404.82
+496
+5000
+1404.82
+497
+5000 d-loss: 1.0518196821212769 g-loss: 1.9507752656936646
+1404.82
+498
+5000 d-loss: 1.0518196821212769 g-loss: 1.9507752656936646
+1404.82
+499
+5000 d-loss: 1.0518196821212769 g-loss: 1.9507752656936646
+1429.94
+500
+5100
+1429.94
+501
+5100
+1429.94
+502
+5100
+1429.94
+503
+5100 d-loss: 1.072973608970642 g-loss: 1.3753678798675537
+1429.94
+504
+5100 d-loss: 1.072973608970642 g-loss: 1.3753678798675537
+1429.94
+505
+5100 d-loss: 1.072973608970642 g-loss: 1.3753678798675537
+1456.08
+506
+5200
+1456.08
+507
+5200
+1456.08
+508
+5200
+1456.08
+509
+5200 d-loss: 1.5476733446121216 g-loss: 1.250504732131958
+1456.08
+510
+5200 d-loss: 1.5476733446121216 g-loss: 1.250504732131958
+1456.08
+511
+5200 d-loss: 1.5476733446121216 g-loss: 1.250504732131958
+1481.73
+512
+5300
+1481.73
+513
+5300
+1481.73
+514
+5300
+1481.73
+515
+5300 d-loss: 1.4832638502120972 g-loss: 1.9255586862564087
+1481.73
+516
+5300 d-loss: 1.4832638502120972 g-loss: 1.9255586862564087
+1481.73
+517
+5300 d-loss: 1.4832638502120972 g-loss: 1.9255586862564087
+1507.69
+518
+5400
+1507.69
+519
+5400
+1507.69
+520
+5400
+1507.69
+521
+5400 d-loss: 0.8318318128585815 g-loss: 1.1524031162261963
+1507.69
+522
+5400 d-loss: 0.8318318128585815 g-loss: 1.1524031162261963
+1507.69
+523
+5400 d-loss: 0.8318318128585815 g-loss: 1.1524031162261963
+1533.25
+524
+5500
+1533.25
+525
+5500
+1533.25
+526
+5500
+1533.25
+527
+5500 d-loss: 1.0002371072769165 g-loss: 1.472968578338623
+1533.25
+528
+5500 d-loss: 1.0002371072769165 g-loss: 1.472968578338623
+1533.25
+529
+5500 d-loss: 1.0002371072769165 g-loss: 1.472968578338623
+1559.32
+530
+5600
+1559.32
+531
+5600
+1559.32
+532
+5600
+1559.32
+533
+5600 d-loss: 0.9669243097305298 g-loss: 1.6922657489776611
+1559.32
+534
+5600 d-loss: 0.9669243097305298 g-loss: 1.6922657489776611
+1559.32
+535
+5600 d-loss: 0.9669243097305298 g-loss: 1.6922657489776611
+1585.22
+536
+5700
+1585.22
+537
+5700
+1585.22
+538
+5700
+1585.22
+539
+5700 d-loss: 1.0159239768981934 g-loss: 1.760669231414795
+1585.22
+540
+5700 d-loss: 1.0159239768981934 g-loss: 1.760669231414795
+1585.22
+541
+5700 d-loss: 1.0159239768981934 g-loss: 1.760669231414795
+1610.49
+542
+5800
+1610.49
+543
+5800
+1610.49
+544
+5800
+1610.49
+545
+5800 d-loss: 0.8317704200744629 g-loss: 1.2464362382888794
+1610.49
+546
+5800 d-loss: 0.8317704200744629 g-loss: 1.2464362382888794
+1610.49
+547
+5800 d-loss: 0.8317704200744629 g-loss: 1.2464362382888794
+1637.05
+548
+5900
+1637.05
+549
+5900
+1637.05
+550
+5900
+1637.06
+551
+5900 d-loss: 0.9994007349014282 g-loss: 1.9274396896362305
+1637.06
+552
+5900 d-loss: 0.9994007349014282 g-loss: 1.9274396896362305
+1637.06
+553
+5900 d-loss: 0.9994007349014282 g-loss: 1.9274396896362305
+1663.54
+554
+6000
+1663.54
+555
+6000
+1663.54
+556
+6000
+1663.54
+557
+6000 d-loss: 0.8005684018135071 g-loss: 1.3672126531600952
+1663.54
+558
+6000 d-loss: 0.8005684018135071 g-loss: 1.3672126531600952
+1663.54
+559
+6000 d-loss: 0.8005684018135071 g-loss: 1.3672126531600952
+1690.27
+560
+6100
+1690.27
+561
+6100
+1690.27
+562
+6100
+1690.28
+563
+6100 d-loss: 0.9981410503387451 g-loss: 1.7101019620895386
+1690.28
+564
+6100 d-loss: 0.9981410503387451 g-loss: 1.7101019620895386
+1690.28
+565
+6100 d-loss: 0.9981410503387451 g-loss: 1.7101019620895386
+1716.52
+566
+6200
+1716.52
+567
+6200
+1716.52
+568
+6200
+1716.53
+569
+6200 d-loss: 0.9715397953987122 g-loss: 1.7309565544128418
+1716.53
+570
+6200 d-loss: 0.9715397953987122 g-loss: 1.7309565544128418
+1716.53
+571
+6200 d-loss: 0.9715397953987122 g-loss: 1.7309565544128418
+1742.12
+572
+6300
+1742.12
+573
+6300
+1742.12
+574
+6300
+1742.13
+575
+6300 d-loss: 1.0271313190460205 g-loss: 1.6934926509857178
+1742.13
+576
+6300 d-loss: 1.0271313190460205 g-loss: 1.6934926509857178
+1742.13
+577
+6300 d-loss: 1.0271313190460205 g-loss: 1.6934926509857178
+1768.66
+578
+6400
+1768.66
+579
+6400
+1768.66
+580
+6400
+1768.66
+581
+6400 d-loss: 0.9608261585235596 g-loss: 1.7480469942092896
+1768.66
+582
+6400 d-loss: 0.9608261585235596 g-loss: 1.7480469942092896
+1768.66
+583
+6400 d-loss: 0.9608261585235596 g-loss: 1.7480469942092896
+1794.22
+584
+6500
+1794.22
+585
+6500
+1794.22
+586
+6500
+1794.22
+587
+6500 d-loss: 0.9712309837341309 g-loss: 1.6077721118927002
+1794.22
+588
+6500 d-loss: 0.9712309837341309 g-loss: 1.6077721118927002
+1794.22
+589
+6500 d-loss: 0.9712309837341309 g-loss: 1.6077721118927002
+1820.50
+590
+6600
+1820.50
+591
+6600
+1820.50
+592
+6600
+1820.50
+593
+6600 d-loss: 0.8482386469841003 g-loss: 1.5309250354766846
+1820.50
+594
+6600 d-loss: 0.8482386469841003 g-loss: 1.5309250354766846
+1820.50
+595
+6600 d-loss: 0.8482386469841003 g-loss: 1.5309250354766846
+1846.05
+596
+6700
+1846.05
+597
+6700
+1846.05
+598
+6700
+1846.06
+599
+6700 d-loss: 0.7807295322418213 g-loss: 1.693785309791565
+1846.06
+600
+6700 d-loss: 0.7807295322418213 g-loss: 1.693785309791565
+1846.06
+601
+6700 d-loss: 0.7807295322418213 g-loss: 1.693785309791565
+1872.96
+602
+6800
+1872.96
+603
+6800
+1872.96
+604
+6800
+1872.97
+605
+6800 d-loss: 0.7451924085617065 g-loss: 2.249237537384033
+1872.97
+606
+6800 d-loss: 0.7451924085617065 g-loss: 2.249237537384033
+1872.97
+607
+6800 d-loss: 0.7451924085617065 g-loss: 2.249237537384033
+1898.16
+608
+6900
+1898.16
+609
+6900
+1898.16
+610
+6900
+1898.16
+611
+6900 d-loss: 1.3301292657852173 g-loss: 2.4238431453704834
+1898.16
+612
+6900 d-loss: 1.3301292657852173 g-loss: 2.4238431453704834
+1898.16
+613
+6900 d-loss: 1.3301292657852173 g-loss: 2.4238431453704834
+1923.85
+614
+7000
+1923.85
+615
+7000
+1923.85
+616
+7000
+1923.85
+617
+7000 d-loss: 1.0079596042633057 g-loss: 1.8234620094299316
+1923.85
+618
+7000 d-loss: 1.0079596042633057 g-loss: 1.8234620094299316
+1923.85
+619
+7000 d-loss: 1.0079596042633057 g-loss: 1.8234620094299316
+1949.02
+620
+7100
+1949.02
+621
+7100
+1949.02
+622
+7100
+1949.02
+623
+7100 d-loss: 0.761198878288269 g-loss: 2.068056344985962
+1949.02
+624
+7100 d-loss: 0.761198878288269 g-loss: 2.068056344985962
+1949.02
+625
+7100 d-loss: 0.761198878288269 g-loss: 2.068056344985962
+1974.17
+626
+7200
+1974.17
+627
+7200
+1974.17
+628
+7200
+1974.18
+629
+7200 d-loss: 1.234285593032837 g-loss: 1.4000591039657593
+1974.18
+630
+7200 d-loss: 1.234285593032837 g-loss: 1.4000591039657593
+1974.18
+631
+7200 d-loss: 1.234285593032837 g-loss: 1.4000591039657593
+2000.02
+632
+7300
+2000.02
+633
+7300
+2000.02
+634
+7300
+2000.02
+635
+7300 d-loss: 0.7904919385910034 g-loss: 2.2481586933135986
+2000.02
+636
+7300 d-loss: 0.7904919385910034 g-loss: 2.2481586933135986
+2000.02
+637
+7300 d-loss: 0.7904919385910034 g-loss: 2.2481586933135986
+2025.26
+638
+7400
+2025.26
+639
+7400
+2025.26
+640
+7400
+2025.26
+641
+7400 d-loss: 0.7631402015686035 g-loss: 2.2523458003997803
+2025.26
+642
+7400 d-loss: 0.7631402015686035 g-loss: 2.2523458003997803
+2025.26
+643
+7400 d-loss: 0.7631402015686035 g-loss: 2.2523458003997803
+2050.95
+644
+7500
+2050.95
+645
+7500
+2050.95
+646
+7500
+2050.95
+647
+7500 d-loss: 0.6683480739593506 g-loss: 1.5795234441757202
+2050.95
+648
+7500 d-loss: 0.6683480739593506 g-loss: 1.5795234441757202
+2050.95
+649
+7500 d-loss: 0.6683480739593506 g-loss: 1.5795234441757202
+2076.26
+650
+7600
+2076.26
+651
+7600
+2076.26
+652
+7600
+2076.27
+653
+7600 d-loss: 0.5958657264709473 g-loss: 1.9191703796386719
+2076.27
+654
+7600 d-loss: 0.5958657264709473 g-loss: 1.9191703796386719
+2076.27
+655
+7600 d-loss: 0.5958657264709473 g-loss: 1.9191703796386719
+2101.48
+656
+7700
+2101.48
+657
+7700
+2101.48
+658
+7700
+2101.49
+659
+7700 d-loss: 0.7277437448501587 g-loss: 1.5107208490371704
+2101.49
+660
+7700 d-loss: 0.7277437448501587 g-loss: 1.5107208490371704
+2101.49
+661
+7700 d-loss: 0.7277437448501587 g-loss: 1.5107208490371704
+2127.01
+662
+7800
+2127.01
+663
+7800
+2127.01
+664
+7800
+2127.02
+665
+7800 d-loss: 0.6733195185661316 g-loss: 1.933327078819275
+2127.02
+666
+7800 d-loss: 0.6733195185661316 g-loss: 1.933327078819275
+2127.02
+667
+7800 d-loss: 0.6733195185661316 g-loss: 1.933327078819275
+2151.99
+668
+7900
+2151.99
+669
+7900
+2151.99
+670
+7900
+2151.99
+671
+7900 d-loss: 1.2411730289459229 g-loss: 1.2108217477798462
+2151.99
+672
+7900 d-loss: 1.2411730289459229 g-loss: 1.2108217477798462
+2151.99
+673
+7900 d-loss: 1.2411730289459229 g-loss: 1.2108217477798462
+2178.25
+674
+8000
+2178.25
+675
+8000
+2178.25
+676
+8000
+2178.25
+677
+8000 d-loss: 0.5685349106788635 g-loss: 2.811481475830078
+2178.25
+678
+8000 d-loss: 0.5685349106788635 g-loss: 2.811481475830078
+2178.25
+679
+8000 d-loss: 0.5685349106788635 g-loss: 2.811481475830078
+2203.69
+680
+8100
+2203.69
+681
+8100
+2203.69
+682
+8100
+2203.70
+683
+8100 d-loss: 0.8853611946105957 g-loss: 2.7050163745880127
+2203.70
+684
+8100 d-loss: 0.8853611946105957 g-loss: 2.7050163745880127
+2203.70
+685
+8100 d-loss: 0.8853611946105957 g-loss: 2.7050163745880127
+2229.57
+686
+8200
+2229.57
+687
+8200
+2229.57
+688
+8200
+2229.57
+689
+8200 d-loss: 0.7084273099899292 g-loss: 2.641972541809082
+2229.57
+690
+8200 d-loss: 0.7084273099899292 g-loss: 2.641972541809082
+2229.57
+691
+8200 d-loss: 0.7084273099899292 g-loss: 2.641972541809082
+2254.62
+692
+8300
+2254.62
+693
+8300
+2254.62
+694
+8300
+2254.62
+695
+8300 d-loss: 0.7776114344596863 g-loss: 1.928655743598938
+2254.62
+696
+8300 d-loss: 0.7776114344596863 g-loss: 1.928655743598938
+2254.62
+697
+8300 d-loss: 0.7776114344596863 g-loss: 1.928655743598938
+2279.56
+698
+8400
+2279.56
+699
+8400
+2279.56
+700
+8400
+2279.56
+701
+8400 d-loss: 0.5838953852653503 g-loss: 2.371586322784424
+2279.56
+702
+8400 d-loss: 0.5838953852653503 g-loss: 2.371586322784424
+2279.56
+703
+8400 d-loss: 0.5838953852653503 g-loss: 2.371586322784424
+2305.12
+704
+8500
+2305.12
+705
+8500
+2305.12
+706
+8500
+2305.12
+707
+8500 d-loss: 0.6261906623840332 g-loss: 1.8190525770187378
+2305.12
+708
+8500 d-loss: 0.6261906623840332 g-loss: 1.8190525770187378
+2305.12
+709
+8500 d-loss: 0.6261906623840332 g-loss: 1.8190525770187378
+2329.67
+710
+8600
+2329.67
+711
+8600
+2329.67
+712
+8600
+2329.68
+713
+8600 d-loss: 0.5148540139198303 g-loss: 2.1438608169555664
+2329.68
+714
+8600 d-loss: 0.5148540139198303 g-loss: 2.1438608169555664
+2329.68
+715
+8600 d-loss: 0.5148540139198303 g-loss: 2.1438608169555664
+2355.63
+716
+8700
+2355.63
+717
+8700
+2355.63
+718
+8700
+2355.63
+719
+8700 d-loss: 0.6811864376068115 g-loss: 1.8602213859558105
+2355.63
+720
+8700 d-loss: 0.6811864376068115 g-loss: 1.8602213859558105
+2355.63
+721
+8700 d-loss: 0.6811864376068115 g-loss: 1.8602213859558105
+2380.38
+722
+8800
+2380.38
+723
+8800
+2380.38
+724
+8800
+2380.38
+725
+8800 d-loss: 0.5617836713790894 g-loss: 3.0569381713867188
+2380.38
+726
+8800 d-loss: 0.5617836713790894 g-loss: 3.0569381713867188
+2380.38
+727
+8800 d-loss: 0.5617836713790894 g-loss: 3.0569381713867188
+2405.53
+728
+8900
+2405.53
+729
+8900
+2405.53
+730
+8900
+2405.54
+731
+8900 d-loss: 0.5972726345062256 g-loss: 2.4552600383758545
+2405.54
+732
+8900 d-loss: 0.5972726345062256 g-loss: 2.4552600383758545
+2405.54
+733
+8900 d-loss: 0.5972726345062256 g-loss: 2.4552600383758545
+2430.18
+734
+9000
+2430.18
+735
+9000
+2430.18
+736
+9000
+2430.18
+737
+9000 d-loss: 0.43384024500846863 g-loss: 2.9313931465148926
+2430.18
+738
+9000 d-loss: 0.43384024500846863 g-loss: 2.9313931465148926
+2430.18
+739
+9000 d-loss: 0.43384024500846863 g-loss: 2.9313931465148926
+2454.85
+740
+9100
+2454.85
+741
+9100
+2454.85
+742
+9100
+2454.85
+743
+9100 d-loss: 0.8083531856536865 g-loss: 2.0379488468170166
+2454.85
+744
+9100 d-loss: 0.8083531856536865 g-loss: 2.0379488468170166
+2454.85
+745
+9100 d-loss: 0.8083531856536865 g-loss: 2.0379488468170166
+2479.77
+746
+9200
+2479.77
+747
+9200
+2479.77
+748
+9200
+2479.78
+749
+9200 d-loss: 0.49377498030662537 g-loss: 2.4594006538391113
+2479.78
+750
+9200 d-loss: 0.49377498030662537 g-loss: 2.4594006538391113
+2479.78
+751
+9200 d-loss: 0.49377498030662537 g-loss: 2.4594006538391113
+2504.83
+752
+9300
+2504.83
+753
+9300
+2504.83
+754
+9300
+2504.83
+755
+9300 d-loss: 0.582817554473877 g-loss: 2.271491289138794
+2504.83
+756
+9300 d-loss: 0.582817554473877 g-loss: 2.271491289138794
+2504.83
+757
+9300 d-loss: 0.582817554473877 g-loss: 2.271491289138794
+2530.37
+758
+9400
+2530.37
+759
+9400
+2530.37
+760
+9400
+2530.37
+761
+9400 d-loss: 0.8380321264266968 g-loss: 1.4886685609817505
+2530.37
+762
+9400 d-loss: 0.8380321264266968 g-loss: 1.4886685609817505
+2530.37
+763
+9400 d-loss: 0.8380321264266968 g-loss: 1.4886685609817505
+2557.50
+764
+9500
+2557.50
+765
+9500
+2557.50
+766
+9500
+2557.50
+767
+9500 d-loss: 0.5769608020782471 g-loss: 2.0906784534454346
+2557.50
+768
+9500 d-loss: 0.5769608020782471 g-loss: 2.0906784534454346
+2557.50
+769
+9500 d-loss: 0.5769608020782471 g-loss: 2.0906784534454346
+2582.52
+770
+9600
+2582.52
+771
+9600
+2582.52
+772
+9600
+2582.52
+773
+9600 d-loss: 0.8380466103553772 g-loss: 2.361013650894165
+2582.52
+774
+9600 d-loss: 0.8380466103553772 g-loss: 2.361013650894165
+2582.52
+775
+9600 d-loss: 0.8380466103553772 g-loss: 2.361013650894165
+2608.07
+776
+9700
+2608.07
+777
+9700
+2608.07
+778
+9700
+2608.07
+779
+9700 d-loss: 0.540962815284729 g-loss: 2.900501251220703
+2608.07
+780
+9700 d-loss: 0.540962815284729 g-loss: 2.900501251220703
+2608.07
+781
+9700 d-loss: 0.540962815284729 g-loss: 2.900501251220703
+2632.76
+782
+9800
+2632.76
+783
+9800
+2632.76
+784
+9800
+2632.76
+785
+9800 d-loss: 0.49796390533447266 g-loss: 2.671966791152954
+2632.76
+786
+9800 d-loss: 0.49796390533447266 g-loss: 2.671966791152954
+2632.76
+787
+9800 d-loss: 0.49796390533447266 g-loss: 2.671966791152954
+2658.60
+788
+9900
+2658.60
+789
+9900
+2658.60
+790
+9900
+2658.60
+791
+9900 d-loss: 1.1581997871398926 g-loss: 2.3658716678619385
+2658.60
+792
+9900 d-loss: 1.1581997871398926 g-loss: 2.3658716678619385
+2658.60
+793
+9900 d-loss: 1.1581997871398926 g-loss: 2.3658716678619385
+2683.36
+794
+10000
+2683.36
+795
+10000
+2683.36
+796
+10000
+2683.36
+797
+10000 d-loss: 0.3746737241744995 g-loss: 3.1658287048339844
+2683.36
+798
+10000 d-loss: 0.3746737241744995 g-loss: 3.1658287048339844
+2683.36
+799
+10000 d-loss: 0.3746737241744995 g-loss: 3.1658287048339844
+2708.88
+800
+10100
+2708.88
+801
+10100
+2708.88
+802
+10100
+2708.88
+803
+10100 d-loss: 0.3725106716156006 g-loss: 2.493600368499756
+2708.88
+804
+10100 d-loss: 0.3725106716156006 g-loss: 2.493600368499756
+2708.88
+805
+10100 d-loss: 0.3725106716156006 g-loss: 2.493600368499756
+2733.62
+806
+10200
+2733.62
+807
+10200
+2733.62
+808
+10200
+2733.62
+809
+10200 d-loss: 0.4341757595539093 g-loss: 2.625231981277466
+2733.62
+810
+10200 d-loss: 0.4341757595539093 g-loss: 2.625231981277466
+2733.62
+811
+10200 d-loss: 0.4341757595539093 g-loss: 2.625231981277466
+2758.25
+812
+10300
+2758.25
+813
+10300
+2758.25
+814
+10300
+2758.25
+815
+10300 d-loss: 0.5517984628677368 g-loss: 2.2699244022369385
+2758.25
+816
+10300 d-loss: 0.5517984628677368 g-loss: 2.2699244022369385
+2758.25
+817
+10300 d-loss: 0.5517984628677368 g-loss: 2.2699244022369385
+2783.27
+818
+10400
+2783.27
+819
+10400
+2783.27
+820
+10400
+2783.27
+821
+10400 d-loss: 1.441774606704712 g-loss: 1.900740623474121
+2783.27
+822
+10400 d-loss: 1.441774606704712 g-loss: 1.900740623474121
+2783.27
+823
+10400 d-loss: 1.441774606704712 g-loss: 1.900740623474121
+2808.31
+824
+10500
+2808.31
+825
+10500
+2808.31
+826
+10500
+2808.31
+827
+10500 d-loss: 0.6332955360412598 g-loss: 1.1931653022766113
+2808.31
+828
+10500 d-loss: 0.6332955360412598 g-loss: 1.1931653022766113
+2808.31
+829
+10500 d-loss: 0.6332955360412598 g-loss: 1.1931653022766113
+2833.82
+830
+10600
+2833.82
+831
+10600
+2833.82
+832
+10600
+2833.82
+833
+10600 d-loss: 0.4690811038017273 g-loss: 3.1962063312530518
+2833.82
+834
+10600 d-loss: 0.4690811038017273 g-loss: 3.1962063312530518
+2833.82
+835
+10600 d-loss: 0.4690811038017273 g-loss: 3.1962063312530518
+2858.35
+836
+10700
+2858.35
+837
+10700
+2858.35
+838
+10700
+2858.35
+839
+10700 d-loss: 1.1335384845733643 g-loss: 2.325730323791504
+2858.35
+840
+10700 d-loss: 1.1335384845733643 g-loss: 2.325730323791504
+2858.35
+841
+10700 d-loss: 1.1335384845733643 g-loss: 2.325730323791504
+2883.32
+842
+10800
+2883.32
+843
+10800
+2883.32
+844
+10800
+2883.32
+845
+10800 d-loss: 0.3489367961883545 g-loss: 2.77667498588562
+2883.32
+846
+10800 d-loss: 0.3489367961883545 g-loss: 2.77667498588562
+2883.32
+847
+10800 d-loss: 0.3489367961883545 g-loss: 2.77667498588562
+2908.75
+848
+10900
+2908.75
+849
+10900
+2908.75
+850
+10900
+2908.75
+851
+10900 d-loss: 0.7276822328567505 g-loss: 3.6609292030334473
+2908.75
+852
+10900 d-loss: 0.7276822328567505 g-loss: 3.6609292030334473
+2908.75
+853
+10900 d-loss: 0.7276822328567505 g-loss: 3.6609292030334473
+2933.83
+854
+11000
+2933.83
+855
+11000
+2933.83
+856
+11000
+2933.84
+857
+11000 d-loss: 1.353722095489502 g-loss: 2.3160407543182373
+2933.84
+858
+11000 d-loss: 1.353722095489502 g-loss: 2.3160407543182373
+2933.84
+859
+11000 d-loss: 1.353722095489502 g-loss: 2.3160407543182373
+2959.80
+860
+11100
+2959.80
+861
+11100
+2959.80
+862
+11100
+2959.81
+863
+11100 d-loss: 0.49952587485313416 g-loss: 2.683328628540039
+2959.81
+864
+11100 d-loss: 0.49952587485313416 g-loss: 2.683328628540039
+2959.81
+865
+11100 d-loss: 0.49952587485313416 g-loss: 2.683328628540039
+2984.32
+866
+11200
+2984.32
+867
+11200
+2984.32
+868
+11200
+2984.32
+869
+11200 d-loss: 0.8662177920341492 g-loss: 2.791903018951416
+2984.32
+870
+11200 d-loss: 0.8662177920341492 g-loss: 2.791903018951416
+2984.32
+871
+11200 d-loss: 0.8662177920341492 g-loss: 2.791903018951416
+3009.68
+872
+11300
+3009.68
+873
+11300
+3009.68
+874
+11300
+3009.68
+875
+11300 d-loss: 0.5125013589859009 g-loss: 3.0760104656219482
+3009.68
+876
+11300 d-loss: 0.5125013589859009 g-loss: 3.0760104656219482
+3009.68
+877
+11300 d-loss: 0.5125013589859009 g-loss: 3.0760104656219482
+3034.55
+878
+11400
+3034.55
+879
+11400
+3034.55
+880
+11400
+3034.55
+881
+11400 d-loss: 0.6334182024002075 g-loss: 3.099835157394409
+3034.55
+882
+11400 d-loss: 0.6334182024002075 g-loss: 3.099835157394409
+3034.55
+883
+11400 d-loss: 0.6334182024002075 g-loss: 3.099835157394409
+3059.79
+884
+11500
+3059.79
+885
+11500
+3059.79
+886
+11500
+3059.80
+887
+11500 d-loss: 0.5532205700874329 g-loss: 3.1611733436584473
+3059.80
+888
+11500 d-loss: 0.5532205700874329 g-loss: 3.1611733436584473
+3059.80
+889
+11500 d-loss: 0.5532205700874329 g-loss: 3.1611733436584473
+3084.86
+890
+11600
+3084.86
+891
+11600
+3084.86
+892
+11600
+3084.86
+893
+11600 d-loss: 1.124077320098877 g-loss: 2.2730722427368164
+3084.86
+894
+11600 d-loss: 1.124077320098877 g-loss: 2.2730722427368164
+3084.86
+895
+11600 d-loss: 1.124077320098877 g-loss: 2.2730722427368164
+3109.90
+896
+11700
+3109.90
+897
+11700
+3109.90
+898
+11700
+3109.90
+899
+11700 d-loss: 0.43380075693130493 g-loss: 3.062537431716919
+3109.90
+900
+11700 d-loss: 0.43380075693130493 g-loss: 3.062537431716919
+3109.90
+901
+11700 d-loss: 0.43380075693130493 g-loss: 3.062537431716919
+3135.84
+902
+11800
+3135.84
+903
+11800
+3135.84
+904
+11800
+3135.84
+905
+11800 d-loss: 0.8186236619949341 g-loss: 2.6248226165771484
+3135.84
+906
+11800 d-loss: 0.8186236619949341 g-loss: 2.6248226165771484
+3135.84
+907
+11800 d-loss: 0.8186236619949341 g-loss: 2.6248226165771484
+3161.74
+908
+11900
+3161.74
+909
+11900
+3161.74
+910
+11900
+3161.74
+911
+11900 d-loss: 0.8233122825622559 g-loss: 1.8759909868240356
+3161.74
+912
+11900 d-loss: 0.8233122825622559 g-loss: 1.8759909868240356
+3161.74
+913
+11900 d-loss: 0.8233122825622559 g-loss: 1.8759909868240356
+3186.97
+914
+12000
+3186.97
+915
+12000
+3186.97
+916
+12000
+3186.97
+917
+12000 d-loss: 1.0034327507019043 g-loss: 3.200913906097412
+3186.97
+918
+12000 d-loss: 1.0034327507019043 g-loss: 3.200913906097412
+3186.97
+919
+12000 d-loss: 1.0034327507019043 g-loss: 3.200913906097412
+3211.44
+920
+12100
+3211.44
+921
+12100
+3211.44
+922
+12100
+3211.45
+923
+12100 d-loss: 0.5825945138931274 g-loss: 2.5292930603027344
+3211.45
+924
+12100 d-loss: 0.5825945138931274 g-loss: 2.5292930603027344
+3211.45
+925
+12100 d-loss: 0.5825945138931274 g-loss: 2.5292930603027344
+3236.59
+926
+12200
+3236.59
+927
+12200
+3236.59
+928
+12200
+3236.60
+929
+12200 d-loss: 0.8807097673416138 g-loss: 2.587782621383667
+3236.60
+930
+12200 d-loss: 0.8807097673416138 g-loss: 2.587782621383667
+3236.60
+931
+12200 d-loss: 0.8807097673416138 g-loss: 2.587782621383667
+3262.87
+932
+12300
+3262.87
+933
+12300
+3262.87
+934
+12300
+3262.88
+935
+12300 d-loss: 0.3388282358646393 g-loss: 2.934378147125244
+3262.88
+936
+12300 d-loss: 0.3388282358646393 g-loss: 2.934378147125244
+3262.88
+937
+12300 d-loss: 0.3388282358646393 g-loss: 2.934378147125244
+3287.86
+938
+12400
+3287.86
+939
+12400
+3287.86
+940
+12400
+3287.86
+941
+12400 d-loss: 0.3366455137729645 g-loss: 3.652730941772461
+3287.86
+942
+12400 d-loss: 0.3366455137729645 g-loss: 3.652730941772461
+3287.86
+943
+12400 d-loss: 0.3366455137729645 g-loss: 3.652730941772461
+3313.51
+944
+12500
+3313.51
+945
+12500
+3313.51
+946
+12500
+3313.51
+947
+12500 d-loss: 0.6740500926971436 g-loss: 2.4385876655578613
+3313.51
+948
+12500 d-loss: 0.6740500926971436 g-loss: 2.4385876655578613
+3313.51
+949
+12500 d-loss: 0.6740500926971436 g-loss: 2.4385876655578613
+3338.23
+950
+12600
+3338.23
+951
+12600
+3338.23
+952
+12600
+3338.23
+953
+12600 d-loss: 0.9389036297798157 g-loss: 2.700516700744629
+3338.23
+954
+12600 d-loss: 0.9389036297798157 g-loss: 2.700516700744629
+3338.23
+955
+12600 d-loss: 0.9389036297798157 g-loss: 2.700516700744629
+3363.01
+956
+12700
+3363.01
+957
+12700
+3363.01
+958
+12700
+3363.01
+959
+12700 d-loss: 0.4168485403060913 g-loss: 3.4147121906280518
+3363.01
+960
+12700 d-loss: 0.4168485403060913 g-loss: 3.4147121906280518
+3363.01
+961
+12700 d-loss: 0.4168485403060913 g-loss: 3.4147121906280518
+3387.68
+962
+12800
+3387.68
+963
+12800
+3387.68
+964
+12800
+3387.68
+965
+12800 d-loss: 0.49235478043556213 g-loss: 2.88126802444458
+3387.68
+966
+12800 d-loss: 0.49235478043556213 g-loss: 2.88126802444458
+3387.68
+967
+12800 d-loss: 0.49235478043556213 g-loss: 2.88126802444458
+3412.29
+968
+12900
+3412.29
+969
+12900
+3412.29
+970
+12900
+3412.30
+971
+12900 d-loss: 1.1031310558319092 g-loss: 1.8552041053771973
+3412.30
+972
+12900 d-loss: 1.1031310558319092 g-loss: 1.8552041053771973
+3412.30
+973
+12900 d-loss: 1.1031310558319092 g-loss: 1.8552041053771973
+3438.29
+974
+13000
+3438.29
+975
+13000
+3438.29
+976
+13000
+3438.29
+977
+13000 d-loss: 1.3963838815689087 g-loss: 1.7108619213104248
+3438.29
+978
+13000 d-loss: 1.3963838815689087 g-loss: 1.7108619213104248
+3438.29
+979
+13000 d-loss: 1.3963838815689087 g-loss: 1.7108619213104248
+3462.86
+980
+13100
+3462.86
+981
+13100
+3462.86
+982
+13100
+3462.86
+983
+13100 d-loss: 0.6604951620101929 g-loss: 2.1541810035705566
+3462.86
+984
+13100 d-loss: 0.6604951620101929 g-loss: 2.1541810035705566
+3462.86
+985
+13100 d-loss: 0.6604951620101929 g-loss: 2.1541810035705566
+3488.86
+986
+13200
+3488.86
+987
+13200
+3488.86
+988
+13200
+3488.86
+989
+13200 d-loss: 0.34321102499961853 g-loss: 3.331526517868042
+3488.86
+990
+13200 d-loss: 0.34321102499961853 g-loss: 3.331526517868042
+3488.86
+991
+13200 d-loss: 0.34321102499961853 g-loss: 3.331526517868042
+3514.34
+992
+13300
+3514.34
+993
+13300
+3514.34
+994
+13300
+3514.34
+995
+13300 d-loss: 0.3358052968978882 g-loss: 3.2891061305999756
+3514.34
+996
+13300 d-loss: 0.3358052968978882 g-loss: 3.2891061305999756
+3514.34
+997
+13300 d-loss: 0.3358052968978882 g-loss: 3.2891061305999756
+3540.05
+998
+13400
+3540.05
+999
+13400
+3540.05
+1000
+13400
+3540.05
+1001
+13400 d-loss: 0.37411510944366455 g-loss: 3.2771806716918945
+3540.05
+1002
+13400 d-loss: 0.37411510944366455 g-loss: 3.2771806716918945
+3540.05
+1003
+13400 d-loss: 0.37411510944366455 g-loss: 3.2771806716918945
+3565.95
+1004
+13500
+3565.95
+1005
+13500
+3565.95
+1006
+13500
+3565.95
+1007
+13500 d-loss: 0.29161861538887024 g-loss: 2.951085329055786
+3565.95
+1008
+13500 d-loss: 0.29161861538887024 g-loss: 2.951085329055786
+3565.95
+1009
+13500 d-loss: 0.29161861538887024 g-loss: 2.951085329055786
+3592.22
+1010
+13600
+3592.22
+1011
+13600
+3592.22
+1012
+13600
+3592.22
+1013
+13600 d-loss: 0.4594338536262512 g-loss: 3.4320790767669678
+3592.22
+1014
+13600 d-loss: 0.4594338536262512 g-loss: 3.4320790767669678
+3592.22
+1015
+13600 d-loss: 0.4594338536262512 g-loss: 3.4320790767669678
+3618.64
+1016
+13700
+3618.64
+1017
+13700
+3618.64
+1018
+13700
+3618.65
+1019
+13700 d-loss: 1.3188810348510742 g-loss: 2.897097110748291
+3618.65
+1020
+13700 d-loss: 1.3188810348510742 g-loss: 2.897097110748291
+3618.65
+1021
+13700 d-loss: 1.3188810348510742 g-loss: 2.897097110748291
+3643.94
+1022
+13800
+3643.94
+1023
+13800
+3643.94
+1024
+13800
+3643.94
+1025
+13800 d-loss: 0.4173557162284851 g-loss: 2.675290822982788
+3643.94
+1026
+13800 d-loss: 0.4173557162284851 g-loss: 2.675290822982788
+3643.94
+1027
+13800 d-loss: 0.4173557162284851 g-loss: 2.675290822982788
+3669.60
+1028
+13900
+3669.60
+1029
+13900
+3669.60
+1030
+13900
+3669.60
+1031
+13900 d-loss: 0.26846078038215637 g-loss: 3.6981329917907715
+3669.60
+1032
+13900 d-loss: 0.26846078038215637 g-loss: 3.6981329917907715
+3669.60
+1033
+13900 d-loss: 0.26846078038215637 g-loss: 3.6981329917907715
+3694.70
+1034
+14000
+3694.70
+1035
+14000
+3694.70
+1036
+14000
+3694.70
+1037
+14000 d-loss: 0.20724540948867798 g-loss: 3.03200101852417
+3694.70
+1038
+14000 d-loss: 0.20724540948867798 g-loss: 3.03200101852417
+3694.70
+1039
+14000 d-loss: 0.20724540948867798 g-loss: 3.03200101852417
+3720.37
+1040
+14100
+3720.37
+1041
+14100
+3720.37
+1042
+14100
+3720.37
+1043
+14100 d-loss: 0.393928200006485 g-loss: 3.6038694381713867
+3720.37
+1044
+14100 d-loss: 0.393928200006485 g-loss: 3.6038694381713867
+3720.37
+1045
+14100 d-loss: 0.393928200006485 g-loss: 3.6038694381713867
+3747.03
+1046
+14200
+3747.03
+1047
+14200
+3747.03
+1048
+14200
+3747.03
+1049
+14200 d-loss: 0.4603889584541321 g-loss: 3.1944820880889893
+3747.03
+1050
+14200 d-loss: 0.4603889584541321 g-loss: 3.1944820880889893
+3747.03
+1051
+14200 d-loss: 0.4603889584541321 g-loss: 3.1944820880889893
+3773.71
+1052
+14300
+3773.71
+1053
+14300
+3773.71
+1054
+14300
+3773.72
+1055
+14300 d-loss: 0.6109010577201843 g-loss: 3.7706077098846436
+3773.72
+1056
+14300 d-loss: 0.6109010577201843 g-loss: 3.7706077098846436
+3773.72
+1057
+14300 d-loss: 0.6109010577201843 g-loss: 3.7706077098846436
+3799.74
+1058
+14400
+3799.74
+1059
+14400
+3799.74
+1060
+14400
+3799.74
+1061
+14400 d-loss: 0.9699859023094177 g-loss: 2.882779836654663
+3799.74
+1062
+14400 d-loss: 0.9699859023094177 g-loss: 2.882779836654663
+3799.74
+1063
+14400 d-loss: 0.9699859023094177 g-loss: 2.882779836654663
+3824.76
+1064
+14500
+3824.76
+1065
+14500
+3824.76
+1066
+14500
+3824.76
+1067
+14500 d-loss: 0.3524269461631775 g-loss: 3.0028860569000244
+3824.76
+1068
+14500 d-loss: 0.3524269461631775 g-loss: 3.0028860569000244
+3824.76
+1069
+14500 d-loss: 0.3524269461631775 g-loss: 3.0028860569000244
+3851.02
+1070
+14600
+3851.02
+1071
+14600
+3851.02
+1072
+14600
+3851.02
+1073
+14600 d-loss: 0.2791687846183777 g-loss: 3.381542682647705
+3851.02
+1074
+14600 d-loss: 0.2791687846183777 g-loss: 3.381542682647705
+3851.02
+1075
+14600 d-loss: 0.2791687846183777 g-loss: 3.381542682647705
+3876.10
+1076
+14700
+3876.10
+1077
+14700
+3876.10
+1078
+14700
+3876.10
+1079
+14700 d-loss: 0.31869232654571533 g-loss: 3.129648208618164
+3876.10
+1080
+14700 d-loss: 0.31869232654571533 g-loss: 3.129648208618164
+3876.10
+1081
+14700 d-loss: 0.31869232654571533 g-loss: 3.129648208618164
+3903.00
+1082
+14800
+3903.00
+1083
+14800
+3903.00
+1084
+14800
+3903.01
+1085
+14800 d-loss: 0.425164133310318 g-loss: 3.361753463745117
+3903.01
+1086
+14800 d-loss: 0.425164133310318 g-loss: 3.361753463745117
+3903.01
+1087
+14800 d-loss: 0.425164133310318 g-loss: 3.361753463745117
+3927.78
+1088
+14900
+3927.78
+1089
+14900
+3927.78
+1090
+14900
+3927.78
+1091
+14900 d-loss: 0.8368078470230103 g-loss: 3.854840040206909
+3927.78
+1092
+14900 d-loss: 0.8368078470230103 g-loss: 3.854840040206909
+3927.78
+1093
+14900 d-loss: 0.8368078470230103 g-loss: 3.854840040206909
+3952.50
+1094
+15000
+3952.50
+1095
+15000
+3952.50
+1096
+15000
+3952.51
+1097
+15000 d-loss: 0.29920223355293274 g-loss: 3.5072596073150635
+3952.51
+1098
+15000 d-loss: 0.29920223355293274 g-loss: 3.5072596073150635
+3952.51
+1099
+15000 d-loss: 0.29920223355293274 g-loss: 3.5072596073150635
+3977.95
+1100
+15100
+3977.95
+1101
+15100
+3977.95
+1102
+15100
+3977.95
+1103
+15100 d-loss: 0.36041349172592163 g-loss: 2.8328254222869873
+3977.95
+1104
+15100 d-loss: 0.36041349172592163 g-loss: 2.8328254222869873
+3977.95
+1105
+15100 d-loss: 0.36041349172592163 g-loss: 2.8328254222869873
+4002.56
+1106
+15200
+4002.56
+1107
+15200
+4002.56
+1108
+15200
+4002.56
+1109
+15200 d-loss: 0.4576389491558075 g-loss: 2.833848237991333
+4002.56
+1110
+15200 d-loss: 0.4576389491558075 g-loss: 2.833848237991333
+4002.56
+1111
+15200 d-loss: 0.4576389491558075 g-loss: 2.833848237991333
+4027.40
+1112
+15300
+4027.40
+1113
+15300
+4027.40
+1114
+15300
+4027.40
+1115
+15300 d-loss: 0.27360934019088745 g-loss: 3.261629104614258
+4027.40
+1116
+15300 d-loss: 0.27360934019088745 g-loss: 3.261629104614258
+4027.40
+1117
+15300 d-loss: 0.27360934019088745 g-loss: 3.261629104614258
+4052.20
+1118
+15400
+4052.20
+1119
+15400
+4052.20
+1120
+15400
+4052.20
+1121
+15400 d-loss: 0.7768186330795288 g-loss: 3.079231023788452
+4052.20
+1122
+15400 d-loss: 0.7768186330795288 g-loss: 3.079231023788452
+4052.20
+1123
+15400 d-loss: 0.7768186330795288 g-loss: 3.079231023788452
+4076.53
+1124
+15500
+4076.53
+1125
+15500
+4076.53
+1126
+15500
+4076.55
+1127
+15500 d-loss: 0.28111329674720764 g-loss: 3.557238817214966
+4076.55
+1128
+15500 d-loss: 0.28111329674720764 g-loss: 3.557238817214966
+4076.55
+1129
+15500 d-loss: 0.28111329674720764 g-loss: 3.557238817214966
+4102.48
+1130
+15600
+4102.48
+1131
+15600
+4102.48
+1132
+15600
+4102.48
+1133
+15600 d-loss: 0.6595382690429688 g-loss: 2.542994976043701
+4102.48
+1134
+15600 d-loss: 0.6595382690429688 g-loss: 2.542994976043701
+4102.48
+1135
+15600 d-loss: 0.6595382690429688 g-loss: 2.542994976043701
+4127.11
+1136
+15700
+4127.11
+1137
+15700
+4127.11
+1138
+15700
+4127.11
+1139
+15700 d-loss: 0.21665650606155396 g-loss: 3.1361172199249268
+4127.11
+1140
+15700 d-loss: 0.21665650606155396 g-loss: 3.1361172199249268
+4127.11
+1141
+15700 d-loss: 0.21665650606155396 g-loss: 3.1361172199249268
+4152.57
+1142
+15800
+4152.57
+1143
+15800
+4152.57
+1144
+15800
+4152.57
+1145
+15800 d-loss: 0.7423321604728699 g-loss: 2.5803041458129883
+4152.57
+1146
+15800 d-loss: 0.7423321604728699 g-loss: 2.5803041458129883
+4152.57
+1147
+15800 d-loss: 0.7423321604728699 g-loss: 2.5803041458129883
+4176.94
+1148
+15900
+4176.94
+1149
+15900
+4176.94
+1150
+15900
+4176.94
+1151
+15900 d-loss: 0.49782583117485046 g-loss: 3.2950124740600586
+4176.94
+1152
+15900 d-loss: 0.49782583117485046 g-loss: 3.2950124740600586
+4176.94
+1153
+15900 d-loss: 0.49782583117485046 g-loss: 3.2950124740600586
+4202.34
+1154
+16000
+4202.34
+1155
+16000
+4202.34
+1156
+16000
+4202.34
+1157
+16000 d-loss: 0.4847646951675415 g-loss: 3.157914638519287
+4202.34
+1158
+16000 d-loss: 0.4847646951675415 g-loss: 3.157914638519287
+4202.34
+1159
+16000 d-loss: 0.4847646951675415 g-loss: 3.157914638519287
+4227.23
+1160
+16100
+4227.23
+1161
+16100
+4227.23
+1162
+16100
+4227.24
+1163
+16100 d-loss: 0.6920212507247925 g-loss: 2.3455076217651367
+4227.24
+1164
+16100 d-loss: 0.6920212507247925 g-loss: 2.3455076217651367
+4227.24
+1165
+16100 d-loss: 0.6920212507247925 g-loss: 2.3455076217651367
+4252.36
+1166
+16200
+4252.36
+1167
+16200
+4252.36
+1168
+16200
+4252.36
+1169
+16200 d-loss: 0.40805551409721375 g-loss: 3.9099817276000977
+4252.36
+1170
+16200 d-loss: 0.40805551409721375 g-loss: 3.9099817276000977
+4252.36
+1171
+16200 d-loss: 0.40805551409721375 g-loss: 3.9099817276000977
+4278.22
+1172
+16300
+4278.22
+1173
+16300
+4278.22
+1174
+16300
+4278.22
+1175
+16300 d-loss: 0.24884328246116638 g-loss: 3.3958284854888916
+4278.22
+1176
+16300 d-loss: 0.24884328246116638 g-loss: 3.3958284854888916
+4278.22
+1177
+16300 d-loss: 0.24884328246116638 g-loss: 3.3958284854888916
+4303.07
+1178
+16400
+4303.07
+1179
+16400
+4303.07
+1180
+16400
+4303.07
+1181
+16400 d-loss: 1.117635726928711 g-loss: 3.033599376678467
+4303.07
+1182
+16400 d-loss: 1.117635726928711 g-loss: 3.033599376678467
+4303.07
+1183
+16400 d-loss: 1.117635726928711 g-loss: 3.033599376678467
+4328.23
+1184
+16500
+4328.23
+1185
+16500
+4328.23
+1186
+16500
+4328.23
+1187
+16500 d-loss: 0.28543561697006226 g-loss: 3.8596339225769043
+4328.23
+1188
+16500 d-loss: 0.28543561697006226 g-loss: 3.8596339225769043
+4328.23
+1189
+16500 d-loss: 0.28543561697006226 g-loss: 3.8596339225769043
+4353.38
+1190
+16600
+4353.38
+1191
+16600
+4353.38
+1192
+16600
+4353.38
+1193
+16600 d-loss: 0.3968870937824249 g-loss: 3.5704219341278076
+4353.38
+1194
+16600 d-loss: 0.3968870937824249 g-loss: 3.5704219341278076
+4353.38
+1195
+16600 d-loss: 0.3968870937824249 g-loss: 3.5704219341278076
+4378.59
+1196
+16700
+4378.59
+1197
+16700
+4378.59
+1198
+16700
+4378.59
+1199
+16700 d-loss: 0.18261975049972534 g-loss: 3.620412588119507
+4378.59
+1200
+16700 d-loss: 0.18261975049972534 g-loss: 3.620412588119507
+4378.59
+1201
+16700 d-loss: 0.18261975049972534 g-loss: 3.620412588119507
+4403.81
+1202
+16800
+4403.81
+1203
+16800
+4403.81
+1204
+16800
+4403.81
+1205
+16800 d-loss: 0.865683913230896 g-loss: 3.027442693710327
+4403.81
+1206
+16800 d-loss: 0.865683913230896 g-loss: 3.027442693710327
+4403.81
+1207
+16800 d-loss: 0.865683913230896 g-loss: 3.027442693710327
+4427.91
+1208
+16900
+4427.91
+1209
+16900
+4427.91
+1210
+16900
+4427.91
+1211
+16900 d-loss: 0.34052786231040955 g-loss: 2.8842413425445557
+4427.91
+1212
+16900 d-loss: 0.34052786231040955 g-loss: 2.8842413425445557
+4427.91
+1213
+16900 d-loss: 0.34052786231040955 g-loss: 2.8842413425445557
+4453.90
+1214
+17000
+4453.90
+1215
+17000
+4453.90
+1216
+17000
+4453.90
+1217
+17000 d-loss: 0.9628699421882629 g-loss: 1.920969009399414
+4453.90
+1218
+17000 d-loss: 0.9628699421882629 g-loss: 1.920969009399414
+4453.90
+1219
+17000 d-loss: 0.9628699421882629 g-loss: 1.920969009399414
+4478.09
+1220
+17100
+4478.09
+1221
+17100
+4478.09
+1222
+17100
+4478.10
+1223
+17100 d-loss: 0.25993770360946655 g-loss: 3.5670011043548584
+4478.10
+1224
+17100 d-loss: 0.25993770360946655 g-loss: 3.5670011043548584
+4478.10
+1225
+17100 d-loss: 0.25993770360946655 g-loss: 3.5670011043548584
+4502.92
+1226
+17200
+4502.92
+1227
+17200
+4502.92
+1228
+17200
+4502.93
+1229
+17200 d-loss: 0.33061084151268005 g-loss: 3.388847827911377
+4502.93
+1230
+17200 d-loss: 0.33061084151268005 g-loss: 3.388847827911377
+4502.93
+1231
+17200 d-loss: 0.33061084151268005 g-loss: 3.388847827911377
+4527.80
+1232
+17300
+4527.80
+1233
+17300
+4527.80
+1234
+17300
+4527.81
+1235
+17300 d-loss: 0.5065561532974243 g-loss: 3.05283784866333
+4527.81
+1236
+17300 d-loss: 0.5065561532974243 g-loss: 3.05283784866333
+4527.81
+1237
+17300 d-loss: 0.5065561532974243 g-loss: 3.05283784866333
+4551.95
+1238
+17400
+4551.95
+1239
+17400
+4551.95
+1240
+17400
+4551.95
+1241
+17400 d-loss: 0.2658247947692871 g-loss: 3.502431631088257
+4551.95
+1242
+17400 d-loss: 0.2658247947692871 g-loss: 3.502431631088257
+4551.95
+1243
+17400 d-loss: 0.2658247947692871 g-loss: 3.502431631088257
+4577.46
+1244
+17500
+4577.46
+1245
+17500
+4577.46
+1246
+17500
+4577.46
+1247
+17500 d-loss: 0.3806712031364441 g-loss: 4.526882171630859
+4577.46
+1248
+17500 d-loss: 0.3806712031364441 g-loss: 4.526882171630859
+4577.46
+1249
+17500 d-loss: 0.3806712031364441 g-loss: 4.526882171630859
+4601.88
+1250
+17600
+4601.88
+1251
+17600
+4601.88
+1252
+17600
+4601.88
+1253
+17600 d-loss: 0.4328615963459015 g-loss: 3.2183444499969482
+4601.88
+1254
+17600 d-loss: 0.4328615963459015 g-loss: 3.2183444499969482
+4601.88
+1255
+17600 d-loss: 0.4328615963459015 g-loss: 3.2183444499969482
+4627.56
+1256
+17700
+4627.56
+1257
+17700
+4627.56
+1258
+17700
+4627.56
+1259
+17700 d-loss: 0.44940638542175293 g-loss: 4.83150053024292
+4627.56
+1260
+17700 d-loss: 0.44940638542175293 g-loss: 4.83150053024292
+4627.56
+1261
+17700 d-loss: 0.44940638542175293 g-loss: 4.83150053024292
+4652.32
+1262
+17800
+4652.32
+1263
+17800
+4652.32
+1264
+17800
+4652.32
+1265
+17800 d-loss: 0.26030272245407104 g-loss: 3.433173656463623
+4652.32
+1266
+17800 d-loss: 0.26030272245407104 g-loss: 3.433173656463623
+4652.32
+1267
+17800 d-loss: 0.26030272245407104 g-loss: 3.433173656463623
+4677.34
+1268
+17900
+4677.34
+1269
+17900
+4677.34
+1270
+17900
+4677.34
+1271
+17900 d-loss: 0.2162160873413086 g-loss: 4.231441497802734
+4677.34
+1272
+17900 d-loss: 0.2162160873413086 g-loss: 4.231441497802734
+4677.34
+1273
+17900 d-loss: 0.2162160873413086 g-loss: 4.231441497802734
+4702.76
+1274
+18000
+4702.76
+1275
+18000
+4702.76
+1276
+18000
+4702.77
+1277
+18000 d-loss: 0.4707457423210144 g-loss: 3.9802398681640625
+4702.77
+1278
+18000 d-loss: 0.4707457423210144 g-loss: 3.9802398681640625
+4702.77
+1279
+18000 d-loss: 0.4707457423210144 g-loss: 3.9802398681640625
+4727.29
+1280
+18100
+4727.29
+1281
+18100
+4727.29
+1282
+18100
+4727.29
+1283
+18100 d-loss: 0.630400538444519 g-loss: 3.8315885066986084
+4727.29
+1284
+18100 d-loss: 0.630400538444519 g-loss: 3.8315885066986084
+4727.29
+1285
+18100 d-loss: 0.630400538444519 g-loss: 3.8315885066986084
+4753.17
+1286
+18200
+4753.17
+1287
+18200
+4753.17
+1288
+18200
+4753.17
+1289
+18200 d-loss: 0.5675225853919983 g-loss: 3.305769920349121
+4753.17
+1290
+18200 d-loss: 0.5675225853919983 g-loss: 3.305769920349121
+4753.17
+1291
+18200 d-loss: 0.5675225853919983 g-loss: 3.305769920349121
+4777.46
+1292
+18300
+4777.46
+1293
+18300
+4777.46
+1294
+18300
+4777.46
+1295
+18300 d-loss: 0.18300318717956543 g-loss: 4.129341125488281
+4777.46
+1296
+18300 d-loss: 0.18300318717956543 g-loss: 4.129341125488281
+4777.46
+1297
+18300 d-loss: 0.18300318717956543 g-loss: 4.129341125488281
+4802.35
+1298
+18400
+4802.35
+1299
+18400
+4802.35
+1300
+18400
+4802.36
+1301
+18400 d-loss: 0.26715314388275146 g-loss: 3.59006404876709
+4802.36
+1302
+18400 d-loss: 0.26715314388275146 g-loss: 3.59006404876709
+4802.36
+1303
+18400 d-loss: 0.26715314388275146 g-loss: 3.59006404876709
+4828.22
+1304
+18500
+4828.22
+1305
+18500
+4828.22
+1306
+18500
+4828.23
+1307
+18500 d-loss: 0.8522090911865234 g-loss: 4.438014984130859
+4828.23
+1308
+18500 d-loss: 0.8522090911865234 g-loss: 4.438014984130859
+4828.23
+1309
+18500 d-loss: 0.8522090911865234 g-loss: 4.438014984130859
+4853.05
+1310
+18600
+4853.05
+1311
+18600
+4853.05
+1312
+18600
+4853.05
+1313
+18600 d-loss: 0.37795132398605347 g-loss: 4.795785427093506
+4853.05
+1314
+18600 d-loss: 0.37795132398605347 g-loss: 4.795785427093506
+4853.05
+1315
+18600 d-loss: 0.37795132398605347 g-loss: 4.795785427093506
+4878.49
+1316
+18700
+4878.49
+1317
+18700
+4878.49
+1318
+18700
+4878.49
+1319
+18700 d-loss: 0.485220730304718 g-loss: 4.451328754425049
+4878.49
+1320
+18700 d-loss: 0.485220730304718 g-loss: 4.451328754425049
+4878.49
+1321
+18700 d-loss: 0.485220730304718 g-loss: 4.451328754425049
+4902.62
+1322
+18800
+4902.62
+1323
+18800
+4902.62
+1324
+18800
+4902.62
+1325
+18800 d-loss: 0.42845845222473145 g-loss: 3.0138378143310547
+4902.62
+1326
+18800 d-loss: 0.42845845222473145 g-loss: 3.0138378143310547
+4902.62
+1327
+18800 d-loss: 0.42845845222473145 g-loss: 3.0138378143310547
+4927.79
+1328
+18900
+4927.79
+1329
+18900
+4927.79
+1330
+18900
+4927.79
+1331
+18900 d-loss: 0.21203291416168213 g-loss: 3.989027500152588
+4927.79
+1332
+18900 d-loss: 0.21203291416168213 g-loss: 3.989027500152588
+4927.79
+1333
+18900 d-loss: 0.21203291416168213 g-loss: 3.989027500152588
+4952.43
+1334
+19000
+4952.43
+1335
+19000
+4952.43
+1336
+19000
+4952.43
+1337
+19000 d-loss: 0.3326970934867859 g-loss: 3.687584400177002
+4952.43
+1338
+19000 d-loss: 0.3326970934867859 g-loss: 3.687584400177002
+4952.43
+1339
+19000 d-loss: 0.3326970934867859 g-loss: 3.687584400177002
+4977.79
+1340
+19100
+4977.79
+1341
+19100
+4977.79
+1342
+19100
+4977.79
+1343
+19100 d-loss: 0.32715362310409546 g-loss: 3.6463706493377686
+4977.79
+1344
+19100 d-loss: 0.32715362310409546 g-loss: 3.6463706493377686
+4977.79
+1345
+19100 d-loss: 0.32715362310409546 g-loss: 3.6463706493377686
+5003.08
+1346
+19200
+5003.08
+1347
+19200
+5003.08
+1348
+19200
+5003.08
+1349
+19200 d-loss: 0.43947407603263855 g-loss: 4.286481857299805
+5003.08
+1350
+19200 d-loss: 0.43947407603263855 g-loss: 4.286481857299805
+5003.08
+1351
+19200 d-loss: 0.43947407603263855 g-loss: 4.286481857299805
+5027.80
+1352
+19300
+5027.80
+1353
+19300
+5027.80
+1354
+19300
+5027.80
+1355
+19300 d-loss: 0.5415789484977722 g-loss: 3.032149076461792
+5027.80
+1356
+19300 d-loss: 0.5415789484977722 g-loss: 3.032149076461792
+5027.80
+1357
+19300 d-loss: 0.5415789484977722 g-loss: 3.032149076461792
+5053.19
+1358
+19400
+5053.19
+1359
+19400
+5053.19
+1360
+19400
+5053.19
+1361
+19400 d-loss: 0.2946681082248688 g-loss: 2.983682632446289
+5053.19
+1362
+19400 d-loss: 0.2946681082248688 g-loss: 2.983682632446289
+5053.19
+1363
+19400 d-loss: 0.2946681082248688 g-loss: 2.983682632446289
+5077.86
+1364
+19500
+5077.86
+1365
+19500
+5077.86
+1366
+19500
+5077.86
+1367
+19500 d-loss: 0.2841916084289551 g-loss: 3.9355955123901367
+5077.86
+1368
+19500 d-loss: 0.2841916084289551 g-loss: 3.9355955123901367
+5077.86
+1369
+19500 d-loss: 0.2841916084289551 g-loss: 3.9355955123901367
+5102.81
+1370
+19600
+5102.81
+1371
+19600
+5102.81
+1372
+19600
+5102.81
+1373
+19600 d-loss: 1.5033296346664429 g-loss: 3.4567275047302246
+5102.81
+1374
+19600 d-loss: 1.5033296346664429 g-loss: 3.4567275047302246
+5102.81
+1375
+19600 d-loss: 1.5033296346664429 g-loss: 3.4567275047302246
+5127.84
+1376
+19700
+5127.84
+1377
+19700
+5127.84
+1378
+19700
+5127.85
+1379
+19700 d-loss: 0.454431414604187 g-loss: 2.741873264312744
+5127.85
+1380
+19700 d-loss: 0.454431414604187 g-loss: 2.741873264312744
+5127.85
+1381
+19700 d-loss: 0.454431414604187 g-loss: 2.741873264312744
+5152.60
+1382
+19800
+5152.60
+1383
+19800
+5152.60
+1384
+19800
+5152.60
+1385
+19800 d-loss: 0.21541762351989746 g-loss: 3.4787211418151855
+5152.60
+1386
+19800 d-loss: 0.21541762351989746 g-loss: 3.4787211418151855
+5152.60
+1387
+19800 d-loss: 0.21541762351989746 g-loss: 3.4787211418151855
+5177.95
+1388
+19900
+5177.95
+1389
+19900
+5177.95
+1390
+19900
+5177.95
+1391
+19900 d-loss: 0.4169209897518158 g-loss: 5.459534168243408
+5177.95
+1392
+19900 d-loss: 0.4169209897518158 g-loss: 5.459534168243408
+5177.95
+1393
+19900 d-loss: 0.4169209897518158 g-loss: 5.459534168243408
+5202.69
+1394
+20000
+5202.69
+1395
+20000
+5202.69
+1396
+20000
+5202.69
+1397
+20000 d-loss: 3.3758363723754883 g-loss: 4.572969436645508
+5202.69
+1398
+20000 d-loss: 3.3758363723754883 g-loss: 4.572969436645508
+5202.69
+1399
+20000 d-loss: 3.3758363723754883 g-loss: 4.572969436645508
+5227.98
+1400
+20100
+5227.98
+1401
+20100
+5227.98
+1402
+20100
+5227.98
+1403
+20100 d-loss: 0.177051842212677 g-loss: 4.9563188552856445
+5227.98
+1404
+20100 d-loss: 0.177051842212677 g-loss: 4.9563188552856445
+5227.98
+1405
+20100 d-loss: 0.177051842212677 g-loss: 4.9563188552856445
+5253.38
+1406
+20200
+5253.38
+1407
+20200
+5253.38
+1408
+20200
+5253.38
+1409
+20200 d-loss: 0.23013935983181 g-loss: 3.8869287967681885
+5253.38
+1410
+20200 d-loss: 0.23013935983181 g-loss: 3.8869287967681885
+5253.38
+1411
+20200 d-loss: 0.23013935983181 g-loss: 3.8869287967681885
+5277.78
+1412
+20300
+5277.78
+1413
+20300
+5277.78
+1414
+20300
+5277.78
+1415
+20300 d-loss: 0.2094232589006424 g-loss: 4.455422401428223
+5277.78
+1416
+20300 d-loss: 0.2094232589006424 g-loss: 4.455422401428223
+5277.78
+1417
+20300 d-loss: 0.2094232589006424 g-loss: 4.455422401428223
+5302.82
+1418
+20400
+5302.82
+1419
+20400
+5302.82
+1420
+20400
+5302.82
+1421
+20400 d-loss: 0.19105090200901031 g-loss: 4.563599586486816
+5302.82
+1422
+20400 d-loss: 0.19105090200901031 g-loss: 4.563599586486816
+5302.82
+1423
+20400 d-loss: 0.19105090200901031 g-loss: 4.563599586486816
+5327.02
+1424
+20500
+5327.02
+1425
+20500
+5327.02
+1426
+20500
+5327.02
+1427
+20500 d-loss: 5.718837261199951 g-loss: 5.354485034942627
+5327.02
+1428
+20500 d-loss: 5.718837261199951 g-loss: 5.354485034942627
+5327.02
+1429
+20500 d-loss: 5.718837261199951 g-loss: 5.354485034942627
+5351.60
+1430
+20600
+5351.60
+1431
+20600
+5351.60
+1432
+20600
+5351.60
+1433
+20600 d-loss: 0.21605579555034637 g-loss: 4.8181047439575195
+5351.60
+1434
+20600 d-loss: 0.21605579555034637 g-loss: 4.8181047439575195
+5351.60
+1435
+20600 d-loss: 0.21605579555034637 g-loss: 4.8181047439575195
+5376.39
+1436
+20700
+5376.39
+1437
+20700
+5376.39
+1438
+20700
+5376.40
+1439
+20700 d-loss: 0.23139458894729614 g-loss: 3.4263482093811035
+5376.40
+1440
+20700 d-loss: 0.23139458894729614 g-loss: 3.4263482093811035
+5376.40
+1441
+20700 d-loss: 0.23139458894729614 g-loss: 3.4263482093811035
+5400.18
+1442
+20800
+5400.18
+1443
+20800
+5400.18
+1444
+20800
+5400.18
+1445
+20800 d-loss: 0.5444598197937012 g-loss: 4.507806301116943
+5400.18
+1446
+20800 d-loss: 0.5444598197937012 g-loss: 4.507806301116943
+5400.18
+1447
+20800 d-loss: 0.5444598197937012 g-loss: 4.507806301116943
+5424.85
+1448
+20900
+5424.85
+1449
+20900
+5424.85
+1450
+20900
+5424.85
+1451
+20900 d-loss: 0.1518101543188095 g-loss: 4.561132431030273
+5424.85
+1452
+20900 d-loss: 0.1518101543188095 g-loss: 4.561132431030273
+5424.85
+1453
+20900 d-loss: 0.1518101543188095 g-loss: 4.561132431030273
+5449.36
+1454
+21000
+5449.36
+1455
+21000
+5449.36
+1456
+21000
+5449.36
+1457
+21000 d-loss: 0.2536933422088623 g-loss: 4.257580280303955
+5449.36
+1458
+21000 d-loss: 0.2536933422088623 g-loss: 4.257580280303955
+5449.36
+1459
+21000 d-loss: 0.2536933422088623 g-loss: 4.257580280303955
+5474.45
+1460
+21100
+5474.45
+1461
+21100
+5474.45
+1462
+21100
+5474.45
+1463
+21100 d-loss: 0.23940923810005188 g-loss: 4.438316345214844
+5474.45
+1464
+21100 d-loss: 0.23940923810005188 g-loss: 4.438316345214844
+5474.45
+1465
+21100 d-loss: 0.23940923810005188 g-loss: 4.438316345214844
+5498.25
+1466
+21200
+5498.25
+1467
+21200
+5498.25
+1468
+21200
+5498.26
+1469
+21200 d-loss: 0.20974120497703552 g-loss: 3.8666703701019287
+5498.26
+1470
+21200 d-loss: 0.20974120497703552 g-loss: 3.8666703701019287
+5498.26
+1471
+21200 d-loss: 0.20974120497703552 g-loss: 3.8666703701019287
+5522.89
+1472
+21300
+5522.89
+1473
+21300
+5522.89
+1474
+21300
+5522.89
+1475
+21300 d-loss: 0.19422298669815063 g-loss: 4.429074287414551
+5522.89
+1476
+21300 d-loss: 0.19422298669815063 g-loss: 4.429074287414551
+5522.89
+1477
+21300 d-loss: 0.19422298669815063 g-loss: 4.429074287414551
+5547.46
+1478
+21400
+5547.46
+1479
+21400
+5547.46
+1480
+21400
+5547.46
+1481
+21400 d-loss: 0.2419065535068512 g-loss: 3.9899380207061768
+5547.46
+1482
+21400 d-loss: 0.2419065535068512 g-loss: 3.9899380207061768
+5547.46
+1483
+21400 d-loss: 0.2419065535068512 g-loss: 3.9899380207061768
+5572.02
+1484
+21500
+5572.02
+1485
+21500
+5572.02
+1486
+21500
+5572.02
+1487
+21500 d-loss: 0.28142037987709045 g-loss: 3.348642110824585
+5572.02
+1488
+21500 d-loss: 0.28142037987709045 g-loss: 3.348642110824585
+5572.02
+1489
+21500 d-loss: 0.28142037987709045 g-loss: 3.348642110824585
+5597.79
+1490
+21600
+5597.79
+1491
+21600
+5597.79
+1492
+21600
+5597.79
+1493
+21600 d-loss: 0.24508623778820038 g-loss: 3.5469799041748047
+5597.79
+1494
+21600 d-loss: 0.24508623778820038 g-loss: 3.5469799041748047
+5597.79
+1495
+21600 d-loss: 0.24508623778820038 g-loss: 3.5469799041748047
+5621.79
+1496
+21700
+5621.79
+1497
+21700
+5621.79
+1498
+21700
+5621.80
+1499
+21700 d-loss: 0.2246682494878769 g-loss: 4.998069763183594
+5621.80
+1500
+21700 d-loss: 0.2246682494878769 g-loss: 4.998069763183594
+5621.80
+1501
+21700 d-loss: 0.2246682494878769 g-loss: 4.998069763183594
+5646.56
+1502
+21800
+5646.56
+1503
+21800
+5646.56
+1504
+21800
+5646.56
+1505
+21800 d-loss: 0.3144647479057312 g-loss: 6.000023365020752
+5646.56
+1506
+21800 d-loss: 0.3144647479057312 g-loss: 6.000023365020752
+5646.56
+1507
+21800 d-loss: 0.3144647479057312 g-loss: 6.000023365020752
+5671.43
+1508
+21900
+5671.43
+1509
+21900
+5671.43
+1510
+21900
+5671.43
+1511
+21900 d-loss: 0.22398895025253296 g-loss: 3.5953705310821533
+5671.43
+1512
+21900 d-loss: 0.22398895025253296 g-loss: 3.5953705310821533
+5671.43
+1513
+21900 d-loss: 0.22398895025253296 g-loss: 3.5953705310821533
+5695.80
+1514
+22000
+5695.80
+1515
+22000
+5695.80
+1516
+22000
+5695.82
+1517
+22000 d-loss: 0.30400633811950684 g-loss: 4.150355815887451
+5695.82
+1518
+22000 d-loss: 0.30400633811950684 g-loss: 4.150355815887451
+5695.82
+1519
+22000 d-loss: 0.30400633811950684 g-loss: 4.150355815887451
+5720.99
+1520
+22100
+5720.99
+1521
+22100
+5720.99
+1522
+22100
+5720.99
+1523
+22100 d-loss: 0.14029115438461304 g-loss: 4.6067023277282715
+5720.99
+1524
+22100 d-loss: 0.14029115438461304 g-loss: 4.6067023277282715
+5720.99
+1525
+22100 d-loss: 0.14029115438461304 g-loss: 4.6067023277282715
+5745.20
+1526
+22200
+5745.20
+1527
+22200
+5745.20
+1528
+22200
+5745.21
+1529
+22200 d-loss: 0.14564266800880432 g-loss: 4.347962856292725
+5745.21
+1530
+22200 d-loss: 0.14564266800880432 g-loss: 4.347962856292725
+5745.21
+1531
+22200 d-loss: 0.14564266800880432 g-loss: 4.347962856292725
+5770.70
+1532
+22300
+5770.70
+1533
+22300
+5770.70
+1534
+22300
+5770.70
+1535
+22300 d-loss: 0.34606409072875977 g-loss: 3.7257652282714844
+5770.70
+1536
+22300 d-loss: 0.34606409072875977 g-loss: 3.7257652282714844
+5770.70
+1537
+22300 d-loss: 0.34606409072875977 g-loss: 3.7257652282714844
+5795.00
+1538
+22400
+5795.00
+1539
+22400
+5795.00
+1540
+22400
+5795.00
+1541
+22400 d-loss: 0.45303869247436523 g-loss: 3.8213229179382324
+5795.00
+1542
+22400 d-loss: 0.45303869247436523 g-loss: 3.8213229179382324
+5795.00
+1543
+22400 d-loss: 0.45303869247436523 g-loss: 3.8213229179382324
+5819.61
+1544
+22500
+5819.61
+1545
+22500
+5819.61
+1546
+22500
+5819.62
+1547
+22500 d-loss: 0.2401489019393921 g-loss: 3.5545525550842285
+5819.62
+1548
+22500 d-loss: 0.2401489019393921 g-loss: 3.5545525550842285
+5819.62
+1549
+22500 d-loss: 0.2401489019393921 g-loss: 3.5545525550842285
+5844.29
+1550
+22600
+5844.29
+1551
+22600
+5844.29
+1552
+22600
+5844.30
+1553
+22600 d-loss: 0.3003150224685669 g-loss: 2.932590961456299
+5844.30
+1554
+22600 d-loss: 0.3003150224685669 g-loss: 2.932590961456299
+5844.30
+1555
+22600 d-loss: 0.3003150224685669 g-loss: 2.932590961456299
+5868.72
+1556
+22700
+5868.72
+1557
+22700
+5868.72
+1558
+22700
+5868.72
+1559
+22700 d-loss: 0.28266122937202454 g-loss: 4.057122230529785
+5868.72
+1560
+22700 d-loss: 0.28266122937202454 g-loss: 4.057122230529785
+5868.72
+1561
+22700 d-loss: 0.28266122937202454 g-loss: 4.057122230529785
+5894.01
+1562
+22800
+5894.01
+1563
+22800
+5894.01
+1564
+22800
+5894.01
+1565
+22800 d-loss: 0.14795958995819092 g-loss: 4.566953659057617
+5894.01
+1566
+22800 d-loss: 0.14795958995819092 g-loss: 4.566953659057617
+5894.01
+1567
+22800 d-loss: 0.14795958995819092 g-loss: 4.566953659057617
+5918.97
+1568
+22900
+5918.97
+1569
+22900
+5918.97
+1570
+22900
+5918.97
+1571
+22900 d-loss: 0.503189206123352 g-loss: 3.1266651153564453
+5918.97
+1572
+22900 d-loss: 0.503189206123352 g-loss: 3.1266651153564453
+5918.97
+1573
+22900 d-loss: 0.503189206123352 g-loss: 3.1266651153564453
+5943.43
+1574
+23000
+5943.43
+1575
+23000
+5943.43
+1576
+23000 d-loss: 0.39451146125793457 g-loss: 4.5449748039245605
+5943.43
+1577
+23000 d-loss: 0.39451146125793457 g-loss: 4.5449748039245605
+5967.98
+1578
+23100
+5967.98
+1579
+23100
+5967.98
+1580
+23100 d-loss: 0.18760639429092407 g-loss: 4.652863502502441
+5967.98
+1581
+23100 d-loss: 0.18760639429092407 g-loss: 4.652863502502441
+5992.30
+1582
+23200
+5992.30
+1583
+23200
+5992.30
+1584
+23200 d-loss: 0.23210138082504272 g-loss: 3.6898603439331055
+5992.30
+1585
+23200 d-loss: 0.23210138082504272 g-loss: 3.6898603439331055
+6017.24
+1586
+23300
+6017.24
+1587
+23300
+6017.24
+1588
+23300 d-loss: 0.3390006124973297 g-loss: 3.1346559524536133
+6017.24
+1589
+23300 d-loss: 0.3390006124973297 g-loss: 3.1346559524536133
+6041.17
+1590
+23400
+6041.17
+1591
+23400
+6041.17
+1592
+23400 d-loss: 0.24820220470428467 g-loss: 3.9062187671661377
+6041.17
+1593
+23400 d-loss: 0.24820220470428467 g-loss: 3.9062187671661377
+6066.17
+1594
+23500
+6066.17
+1595
+23500
+6066.17
+1596
+23500 d-loss: 0.6133551597595215 g-loss: 3.9774696826934814
+6066.17
+1597
+23500 d-loss: 0.6133551597595215 g-loss: 3.9774696826934814
+6090.94
+1598
+23600
+6090.94
+1599
+23600
+6090.94
+1600
+23600 d-loss: 1.4193665981292725 g-loss: 3.0146191120147705
+6090.94
+1601
+23600 d-loss: 1.4193665981292725 g-loss: 3.0146191120147705
+6115.02
+1602
+23700
+6115.02
+1603
+23700
+6115.02
+1604
+23700 d-loss: 0.25491803884506226 g-loss: 4.97447395324707
+6115.02
+1605
+23700 d-loss: 0.25491803884506226 g-loss: 4.97447395324707
+6139.94
+1606
+23800
+6139.94
+1607
+23800
+6139.94
+1608
+23800 d-loss: 0.16087085008621216 g-loss: 4.5045084953308105
+6139.94
+1609
+23800 d-loss: 0.16087085008621216 g-loss: 4.5045084953308105
+6164.01
+1610
+23900
+6164.01
+1611
+23900
+6164.01
+1612
+23900 d-loss: 0.2745794355869293 g-loss: 4.163517951965332
+6164.01
+1613
+23900 d-loss: 0.2745794355869293 g-loss: 4.163517951965332
+6188.71
+1614
+24000
+6188.71
+1615
+24000
+6188.71
+1616
+24000 d-loss: 0.6538280248641968 g-loss: 3.604045867919922
+6188.71
+1617
+24000 d-loss: 0.6538280248641968 g-loss: 3.604045867919922
+6212.75
+1618
+24100
+6212.75
+1619
+24100
+6212.76
+1620
+24100 d-loss: 0.19664724171161652 g-loss: 4.637478828430176
+6212.76
+1621
+24100 d-loss: 0.19664724171161652 g-loss: 4.637478828430176
+6237.60
+1622
+24200
+6237.60
+1623
+24200
+6237.60
+1624
+24200 d-loss: 0.6030486822128296 g-loss: 3.0531275272369385
+6237.60
+1625
+24200 d-loss: 0.6030486822128296 g-loss: 3.0531275272369385
+6261.99
+1626
+24300
+6261.99
+1627
+24300
+6261.99
+1628
+24300 d-loss: 0.16325406730175018 g-loss: 4.010247230529785
+6261.99
+1629
+24300 d-loss: 0.16325406730175018 g-loss: 4.010247230529785
+6286.47
+1630
+24400
+6286.47
+1631
+24400
+6286.47
+1632
+24400 d-loss: 0.3040653467178345 g-loss: 4.064831256866455
+6286.47
+1633
+24400 d-loss: 0.3040653467178345 g-loss: 4.064831256866455
+6311.45
+1634
+24500
+6311.45
+1635
+24500
+6311.45
+1636
+24500 d-loss: 0.4903191328048706 g-loss: 3.2003321647644043
+6311.45
+1637
+24500 d-loss: 0.4903191328048706 g-loss: 3.2003321647644043
+6335.48
+1638
+24600
+6335.48
+1639
+24600
+6335.49
+1640
+24600 d-loss: 0.6788699626922607 g-loss: 3.122676134109497
+6335.49
+1641
+24600 d-loss: 0.6788699626922607 g-loss: 3.122676134109497
+6359.67
+1642
+24700
+6359.67
+1643
+24700
+6359.67
+1644
+24700 d-loss: 0.4468690752983093 g-loss: 3.9646787643432617
+6359.67
+1645
+24700 d-loss: 0.4468690752983093 g-loss: 3.9646787643432617
+6385.04
+1646
+24800
+6385.04
+1647
+24800
+6385.04
+1648
+24800 d-loss: 0.1192452609539032 g-loss: 3.752103090286255
+6385.04
+1649
+24800 d-loss: 0.1192452609539032 g-loss: 3.752103090286255
+6410.52
+1650
+24900
+6410.52
+1651
+24900
+6410.53
+1652
+24900 d-loss: 0.1400219053030014 g-loss: 5.009785175323486
+6410.53
+1653
+24900 d-loss: 0.1400219053030014 g-loss: 5.009785175323486
+6435.74
+1654
+25000
+6435.74
+1655
+25000
+6435.74
+1656
+25000 d-loss: 0.6191534399986267 g-loss: 3.8228919506073
+6435.74
+1657
+25000 d-loss: 0.6191534399986267 g-loss: 3.8228919506073
+6460.16
+1658
+25100
+6460.16
+1659
+25100
+6460.16
+1660
+25100 d-loss: 0.1495518982410431 g-loss: 3.7744104862213135
+6460.16
+1661
+25100 d-loss: 0.1495518982410431 g-loss: 3.7744104862213135
+6485.67
+1662
+25200
+6485.67
+1663
+25200
+6485.67
+1664
+25200 d-loss: 0.29208147525787354 g-loss: 3.183405876159668
+6485.67
+1665
+25200 d-loss: 0.29208147525787354 g-loss: 3.183405876159668
+6510.01
+1666
+25300
+6510.01
+1667
+25300
+6510.01
+1668
+25300 d-loss: 0.4987242817878723 g-loss: 3.7962028980255127
+6510.01
+1669
+25300 d-loss: 0.4987242817878723 g-loss: 3.7962028980255127
+6535.04
+1670
+25400
+6535.04
+1671
+25400
+6535.04
+1672
+25400 d-loss: 0.3814278542995453 g-loss: 3.214165210723877
+6535.04
+1673
+25400 d-loss: 0.3814278542995453 g-loss: 3.214165210723877
+6560.58
+1674
+25500
+6560.58
+1675
+25500
+6560.58
+1676
+25500 d-loss: 0.19813454151153564 g-loss: 4.402122497558594
+6560.58
+1677
+25500 d-loss: 0.19813454151153564 g-loss: 4.402122497558594
+6584.98
+1678
+25600
+6584.98
+1679
+25600
+6584.98
+1680
+25600 d-loss: 0.203717902302742 g-loss: 3.813507318496704
+6584.98
+1681
+25600 d-loss: 0.203717902302742 g-loss: 3.813507318496704
+6610.17
+1682
+25700
+6610.17
+1683
+25700
+6610.17
+1684
+25700 d-loss: 0.17938768863677979 g-loss: 4.063015937805176
+6610.17
+1685
+25700 d-loss: 0.17938768863677979 g-loss: 4.063015937805176
+6634.43
+1686
+25800
+6634.43
+1687
+25800
+6634.43
+1688
+25800 d-loss: 0.18099035322666168 g-loss: 4.381747245788574
+6634.43
+1689
+25800 d-loss: 0.18099035322666168 g-loss: 4.381747245788574
+6658.76
+1690
+25900
+6658.76
+1691
+25900
+6658.77
+1692
+25900 d-loss: 0.5545317530632019 g-loss: 6.879451274871826
+6658.77
+1693
+25900 d-loss: 0.5545317530632019 g-loss: 6.879451274871826
+6683.77
+1694
+26000
+6683.77
+1695
+26000
+6683.77
+1696
+26000 d-loss: 0.11599408090114594 g-loss: 5.472977161407471
+6683.77
+1697
+26000 d-loss: 0.11599408090114594 g-loss: 5.472977161407471
+6708.41
+1698
+26100
+6708.41
+1699
+26100
+6708.41
+1700
+26100 d-loss: 0.18403950333595276 g-loss: 3.4560465812683105
+6708.41
+1701
+26100 d-loss: 0.18403950333595276 g-loss: 3.4560465812683105
+6733.56
+1702
+26200
+6733.56
+1703
+26200
+6733.56
+1704
+26200 d-loss: 0.15931130945682526 g-loss: 4.667874336242676
+6733.56
+1705
+26200 d-loss: 0.15931130945682526 g-loss: 4.667874336242676
+6757.91
+1706
+26300
+6757.91
+1707
+26300
+6757.91
+1708
+26300 d-loss: 0.14673355221748352 g-loss: 4.269670009613037
+6757.91
+1709
+26300 d-loss: 0.14673355221748352 g-loss: 4.269670009613037
+6782.62
+1710
+26400
+6782.62
+1711
+26400
+6782.63
+1712
+26400 d-loss: 1.1000803709030151 g-loss: 1.9934386014938354
+6782.63
+1713
+26400 d-loss: 1.1000803709030151 g-loss: 1.9934386014938354
+6807.77
+1714
+26500
+6807.77
+1715
+26500
+6807.78
+1716
+26500 d-loss: 0.31012654304504395 g-loss: 3.4075562953948975
+6807.78
+1717
+26500 d-loss: 0.31012654304504395 g-loss: 3.4075562953948975
+6832.22
+1718
+26600
+6832.22
+1719
+26600
+6832.22
+1720
+26600 d-loss: 0.13282626867294312 g-loss: 4.417448997497559
+6832.22
+1721
+26600 d-loss: 0.13282626867294312 g-loss: 4.417448997497559
+6857.50
+1722
+26700
+6857.50
+1723
+26700
+6857.50
+1724
+26700 d-loss: 0.2957229018211365 g-loss: 4.816863059997559
+6857.50
+1725
+26700 d-loss: 0.2957229018211365 g-loss: 4.816863059997559
+6881.81
+1726
+26800
+6881.81
+1727
+26800
+6881.81
+1728
+26800 d-loss: 0.21409377455711365 g-loss: 4.308338642120361
+6881.81
+1729
+26800 d-loss: 0.21409377455711365 g-loss: 4.308338642120361
+6907.18
+1730
+26900
+6907.18
+1731
+26900
+6907.18
+1732
+26900 d-loss: 0.17486605048179626 g-loss: 4.723160743713379
+6907.18
+1733
+26900 d-loss: 0.17486605048179626 g-loss: 4.723160743713379
+6931.69
+1734
+27000
+6931.69
+1735
+27000
+6931.70
+1736
+27000 d-loss: 0.46104860305786133 g-loss: 4.278956413269043
+6931.70
+1737
+27000 d-loss: 0.46104860305786133 g-loss: 4.278956413269043
+6956.27
+1738
+27100
+6956.27
+1739
+27100
+6956.28
+1740
+27100 d-loss: 0.19198578596115112 g-loss: 5.02754020690918
+6956.28
+1741
+27100 d-loss: 0.19198578596115112 g-loss: 5.02754020690918
+6981.63
+1742
+27200
+6981.63
+1743
+27200
+6981.63
+1744
+27200 d-loss: 7.594717025756836 g-loss: 7.586884498596191
+6981.63
+1745
+27200 d-loss: 7.594717025756836 g-loss: 7.586884498596191
+7006.48
+1746
+27300
+7006.48
+1747
+27300
+7006.49
+1748
+27300 d-loss: 0.16469253599643707 g-loss: 4.074191093444824
+7006.49
+1749
+27300 d-loss: 0.16469253599643707 g-loss: 4.074191093444824
+7031.59
+1750
+27400
+7031.59
+1751
+27400
+7031.59
+1752
+27400 d-loss: 0.264824241399765 g-loss: 3.6473917961120605
+7031.59
+1753
+27400 d-loss: 0.264824241399765 g-loss: 3.6473917961120605
+7056.04
+1754
+27500
+7056.04
+1755
+27500
+7056.06
+1756
+27500 d-loss: 0.2690700888633728 g-loss: 4.354678153991699
+7056.06
+1757
+27500 d-loss: 0.2690700888633728 g-loss: 4.354678153991699
+7079.99
+1758
+27600
+7079.99
+1759
+27600
+7079.99
+1760
+27600 d-loss: 0.12478413432836533 g-loss: 4.5173797607421875
+7079.99
+1761
+27600 d-loss: 0.12478413432836533 g-loss: 4.5173797607421875
+7104.73
+1762
+27700
+7104.73
+1763
+27700
+7104.73
+1764
+27700 d-loss: 0.16057460010051727 g-loss: 4.80034065246582
+7104.73
+1765
+27700 d-loss: 0.16057460010051727 g-loss: 4.80034065246582
+7128.73
+1766
+27800
+7128.73
+1767
+27800
+7128.73
+1768
+27800 d-loss: 0.39899712800979614 g-loss: 3.540628671646118
+7128.73
+1769
+27800 d-loss: 0.39899712800979614 g-loss: 3.540628671646118
+7154.24
+1770
+27900
+7154.24
+1771
+27900
+7154.24
+1772
+27900 d-loss: 0.3511416018009186 g-loss: 3.79923152923584
+7154.24
+1773
+27900 d-loss: 0.3511416018009186 g-loss: 3.79923152923584
+7178.56
+1774
+28000
+7178.56
+1775
+28000
+7178.56
+1776
+28000 d-loss: 0.14257262647151947 g-loss: 4.702189922332764
+7178.56
+1777
+28000 d-loss: 0.14257262647151947 g-loss: 4.702189922332764
+7203.76
+1778
+28100
+7203.76
+1779
+28100
+7203.76
+1780
+28100 d-loss: 0.12663008272647858 g-loss: 5.294399261474609
+7203.76
+1781
+28100 d-loss: 0.12663008272647858 g-loss: 5.294399261474609
+7227.81
+1782
+28200
+7227.81
+1783
+28200
+7227.81
+1784
+28200 d-loss: 0.10696762055158615 g-loss: 4.219008445739746
+7227.81
+1785
+28200 d-loss: 0.10696762055158615 g-loss: 4.219008445739746
+7251.73
+1786
+28300
+7251.73
+1787
+28300
+7251.73
+1788
+28300 d-loss: 0.295282781124115 g-loss: 4.936039924621582
+7251.73
+1789
+28300 d-loss: 0.295282781124115 g-loss: 4.936039924621582
+7276.86
+1790
+28400
+7276.86
+1791
+28400
+7276.86
+1792
+28400 d-loss: 0.1749550849199295 g-loss: 5.072022438049316
+7276.86
+1793
+28400 d-loss: 0.1749550849199295 g-loss: 5.072022438049316
+7300.59
+1794
+28500
+7300.59
+1795
+28500
+7300.59
+1796
+28500 d-loss: 0.7027859687805176 g-loss: 3.6182901859283447
+7300.59
+1797
+28500 d-loss: 0.7027859687805176 g-loss: 3.6182901859283447
+7325.84
+1798
+28600
+7325.84
+1799
+28600
+7325.84
+1800
+28600 d-loss: 0.18136565387248993 g-loss: 4.064812660217285
+7325.84
+1801
+28600 d-loss: 0.18136565387248993 g-loss: 4.064812660217285
+7350.49
+1802
+28700
+7350.49
+1803
+28700
+7350.49
+1804
+28700 d-loss: 0.3871358633041382 g-loss: 4.122212886810303
+7350.49
+1805
+28700 d-loss: 0.3871358633041382 g-loss: 4.122212886810303
+7374.78
+1806
+28800
+7374.78
+1807
+28800
+7374.78
+1808
+28800 d-loss: 0.29526054859161377 g-loss: 5.737010955810547
+7374.78
+1809
+28800 d-loss: 0.29526054859161377 g-loss: 5.737010955810547
+7399.65
+1810
+28900
+7399.65
+1811
+28900
+7399.65
+1812
+28900 d-loss: 0.13269348442554474 g-loss: 5.130905628204346
+7399.65
+1813
+28900 d-loss: 0.13269348442554474 g-loss: 5.130905628204346
+7423.58
+1814
+29000
+7423.58
+1815
+29000
+7423.58
+1816
+29000 d-loss: 0.1134151816368103 g-loss: 4.750293731689453
+7423.58
+1817
+29000 d-loss: 0.1134151816368103 g-loss: 4.750293731689453
+7448.67
+1818
+29100
+7448.67
+1819
+29100
+7448.67
+1820
+29100 d-loss: 0.5554996132850647 g-loss: 1.7426419258117676
+7448.67
+1821
+29100 d-loss: 0.5554996132850647 g-loss: 1.7426419258117676
+7473.38
+1822
+29200
+7473.38
+1823
+29200
+7473.38
+1824
+29200 d-loss: 0.12046167999505997 g-loss: 5.597259998321533
+7473.38
+1825
+29200 d-loss: 0.12046167999505997 g-loss: 5.597259998321533
+7498.03
+1826
+29300
+7498.03
+1827
+29300
+7498.03
+1828
+29300 d-loss: 0.20752200484275818 g-loss: 3.745433807373047
+7498.03
+1829
+29300 d-loss: 0.20752200484275818 g-loss: 3.745433807373047
+7523.17
+1830
+29400
+7523.17
+1831
+29400
+7523.17
+1832
+29400 d-loss: 0.33975082635879517 g-loss: 4.757565498352051
+7523.17
+1833
+29400 d-loss: 0.33975082635879517 g-loss: 4.757565498352051
+7547.27
+1834
+29500
+7547.27
+1835
+29500
+7547.27
+1836
+29500 d-loss: 1.1011266708374023 g-loss: 3.9412851333618164
+7547.27
+1837
+29500 d-loss: 1.1011266708374023 g-loss: 3.9412851333618164
+7572.54
+1838
+29600
+7572.54
+1839
+29600
+7572.54
+1840
+29600 d-loss: 0.4395308494567871 g-loss: 2.7766010761260986
+7572.54
+1841
+29600 d-loss: 0.4395308494567871 g-loss: 2.7766010761260986
+7597.49
+1842
+29700
+7597.49
+1843
+29700
+7597.49
+1844
+29700 d-loss: 0.25981754064559937 g-loss: 4.577716827392578
+7597.49
+1845
+29700 d-loss: 0.25981754064559937 g-loss: 4.577716827392578
+7622.57
+1846
+29800
+7622.57
+1847
+29800
+7622.58
+1848
+29800 d-loss: 0.12359504401683807 g-loss: 4.7076287269592285
+7622.58
+1849
+29800 d-loss: 0.12359504401683807 g-loss: 4.7076287269592285
+7647.13
+1850
+29900
+7647.13
+1851
+29900
+7647.14
+1852
+29900 d-loss: 0.19693177938461304 g-loss: 4.282017707824707
+7647.14
+1853
+29900 d-loss: 0.19693177938461304 g-loss: 4.282017707824707
+7671.53
+1854
+30000
+7671.53
+1855
+30000
+7671.53
+1856
+30000 d-loss: 0.34222322702407837 g-loss: 3.974900484085083
+7671.53
+1857
+30000 d-loss: 0.34222322702407837 g-loss: 3.974900484085083
+7696.63
+1858
+30100
+7696.63
+1859
+30100
+7696.63
+1860
+30100 d-loss: 0.15949848294258118 g-loss: 4.6675639152526855
+7696.63
+1861
+30100 d-loss: 0.15949848294258118 g-loss: 4.6675639152526855
+7720.84
+1862
+30200
+7720.84
+1863
+30200
+7720.84
+1864
+30200 d-loss: 0.20041291415691376 g-loss: 4.696793556213379
+7720.84
+1865
+30200 d-loss: 0.20041291415691376 g-loss: 4.696793556213379
+7745.64
+1866
+30300
+7745.64
+1867
+30300
+7745.65
+1868
+30300 d-loss: 0.22926729917526245 g-loss: 4.259125709533691
+7745.65
+1869
+30300 d-loss: 0.22926729917526245 g-loss: 4.259125709533691
+7770.21
+1870
+30400
+7770.21
+1871
+30400
+7770.22
+1872
+30400 d-loss: 0.15606245398521423 g-loss: 4.419147491455078
+7770.22
+1873
+30400 d-loss: 0.15606245398521423 g-loss: 4.419147491455078
+7794.24
+1874
+30500
+7794.24
+1875
+30500
+7794.24
+1876
+30500 d-loss: 1.3071537017822266 g-loss: 7.725652694702148
+7794.24
+1877
+30500 d-loss: 1.3071537017822266 g-loss: 7.725652694702148
+7818.73
+1878
+30600
+7818.73
+1879
+30600
+7818.73
+1880
+30600 d-loss: 0.5453149080276489 g-loss: 7.977953910827637
+7818.73
+1881
+30600 d-loss: 0.5453149080276489 g-loss: 7.977953910827637
+7842.75
+1882
+30700
+7842.75
+1883
+30700
+7842.75
+1884
+30700 d-loss: 0.08192767202854156 g-loss: 4.844715118408203
+7842.75
+1885
+30700 d-loss: 0.08192767202854156 g-loss: 4.844715118408203
+7867.09
+1886
+30800
+7867.09
+1887
+30800
+7867.09
+1888
+30800 d-loss: 0.027472443878650665 g-loss: 6.042520523071289
+7867.09
+1889
+30800 d-loss: 0.027472443878650665 g-loss: 6.042520523071289
+7890.87
+1890
+30900
+7890.87
+1891
+30900
+7890.87
+1892
+30900 d-loss: 0.08320096880197525 g-loss: 7.205700397491455
+7890.87
+1893
+30900 d-loss: 0.08320096880197525 g-loss: 7.205700397491455
+7914.59
+1894
+31000
+7914.59
+1895
+31000
+7914.59
+1896
+31000 d-loss: 0.17413613200187683 g-loss: 6.597484111785889
+7914.59
+1897
+31000 d-loss: 0.17413613200187683 g-loss: 6.597484111785889
+7939.29
+1898
+31100
+7939.29
+1899
+31100
+7939.30
+1900
+31100 d-loss: 0.13615688681602478 g-loss: 6.309564590454102
+7939.30
+1901
+31100 d-loss: 0.13615688681602478 g-loss: 6.309564590454102
+7963.07
+1902
+31200
+7963.07
+1903
+31200
+7963.07
+1904
+31200 d-loss: 0.30774563550949097 g-loss: 7.874056816101074
+7963.07
+1905
+31200 d-loss: 0.30774563550949097 g-loss: 7.874056816101074
+7987.46
+1906
+31300
+7987.46
+1907
+31300
+7987.46
+1908
+31300 d-loss: 0.2834695875644684 g-loss: 6.0940775871276855
+7987.46
+1909
+31300 d-loss: 0.2834695875644684 g-loss: 6.0940775871276855
+8011.39
+1910
+31400
+8011.39
+1911
+31400
+8011.39
+1912
+31400 d-loss: 0.303335577249527 g-loss: 4.716702461242676
+8011.39
+1913
+31400 d-loss: 0.303335577249527 g-loss: 4.716702461242676
+8035.07
+1914
+31500
+8035.07
+1915
+31500
+8035.07
+1916
+31500 d-loss: 0.09259915351867676 g-loss: 6.8671464920043945
+8035.07
+1917
+31500 d-loss: 0.09259915351867676 g-loss: 6.8671464920043945
+8059.28
+1918
+31600
+8059.28
+1919
+31600
+8059.28
+1920
+31600 d-loss: 0.2605457603931427 g-loss: 6.97078800201416
+8059.28
+1921
+31600 d-loss: 0.2605457603931427 g-loss: 6.97078800201416
+8083.01
+1922
+31700
+8083.01
+1923
+31700
+8083.01
+1924
+31700 d-loss: 0.20410005748271942 g-loss: 7.051829814910889
+8083.01
+1925
+31700 d-loss: 0.20410005748271942 g-loss: 7.051829814910889
+8107.46
+1926
+31800
+8107.46
+1927
+31800
+8107.46
+1928
+31800 d-loss: 0.16648384928703308 g-loss: 5.1152729988098145
+8107.46
+1929
+31800 d-loss: 0.16648384928703308 g-loss: 5.1152729988098145
+8130.90
+1930
+31900
+8130.90
+1931
+31900
+8130.90
+1932
+31900 d-loss: 0.3307321071624756 g-loss: 4.421096324920654
+8130.90
+1933
+31900 d-loss: 0.3307321071624756 g-loss: 4.421096324920654
+8154.65
+1934
+32000
+8154.65
+1935
+32000
+8154.65
+1936
+32000 d-loss: 0.21535594761371613 g-loss: 4.272465229034424
+8154.65
+1937
+32000 d-loss: 0.21535594761371613 g-loss: 4.272465229034424
+8179.39
+1938
+32100
+8179.39
+1939
+32100
+8179.39
+1940
+32100 d-loss: 0.7730956673622131 g-loss: 8.838325500488281
+8179.39
+1941
+32100 d-loss: 0.7730956673622131 g-loss: 8.838325500488281
+8203.04
+1942
+32200
+8203.04
+1943
+32200
+8203.04
+1944
+32200 d-loss: 0.15988974273204803 g-loss: 5.5207929611206055
+8203.04
+1945
+32200 d-loss: 0.15988974273204803 g-loss: 5.5207929611206055
+8227.50
+1946
+32300
+8227.50
+1947
+32300
+8227.50
+1948
+32300 d-loss: 0.25001099705696106 g-loss: 8.389753341674805
+8227.50
+1949
+32300 d-loss: 0.25001099705696106 g-loss: 8.389753341674805
+8251.58
+1950
+32400
+8251.58
+1951
+32400
+8251.59
+1952
+32400 d-loss: 0.09162281453609467 g-loss: 7.427806377410889
+8251.59
+1953
+32400 d-loss: 0.09162281453609467 g-loss: 7.427806377410889
+8275.06
+1954
+32500
+8275.06
+1955
+32500
+8275.06
+1956
+32500 d-loss: 0.35061776638031006 g-loss: 11.392318725585938
+8275.06
+1957
+32500 d-loss: 0.35061776638031006 g-loss: 11.392318725585938
+8299.69
+1958
+32600
+8299.69
+1959
+32600
+8299.69
+1960
+32600 d-loss: 0.4211297035217285 g-loss: 9.763176918029785
+8299.69
+1961
+32600 d-loss: 0.4211297035217285 g-loss: 9.763176918029785
+8323.52
+1962
+32700
+8323.52
+1963
+32700
+8323.52
+1964
+32700 d-loss: 0.1640731245279312 g-loss: 6.176898956298828
+8323.52
+1965
+32700 d-loss: 0.1640731245279312 g-loss: 6.176898956298828
+8348.25
+1966
+32800
+8348.25
+1967
+32800
+8348.25
+1968
+32800 d-loss: 0.27510252594947815 g-loss: 4.365601539611816
+8348.25
+1969
+32800 d-loss: 0.27510252594947815 g-loss: 4.365601539611816
+8372.26
+1970
+32900
+8372.26
+1971
+32900
+8372.27
+1972
+32900 d-loss: 0.12724006175994873 g-loss: 5.200780868530273
+8372.27
+1973
+32900 d-loss: 0.12724006175994873 g-loss: 5.200780868530273
+8396.66
+1974
+33000
+8396.66
+1975
+33000
+8396.67
+1976
+33000 d-loss: 0.24942423403263092 g-loss: 6.50312614440918
+8396.67
+1977
+33000 d-loss: 0.24942423403263092 g-loss: 6.50312614440918
+8421.35
+1978
+33100
+8421.35
+1979
+33100
+8421.35
+1980
+33100 d-loss: 0.08979100733995438 g-loss: 5.397483825683594
+8421.35
+1981
+33100 d-loss: 0.08979100733995438 g-loss: 5.397483825683594
+8445.52
+1982
+33200
+8445.52
+1983
+33200
+8445.53
+1984
+33200 d-loss: 0.1735725700855255 g-loss: 5.610546588897705
+8445.53
+1985
+33200 d-loss: 0.1735725700855255 g-loss: 5.610546588897705
+8470.17
+1986
+33300
+8470.17
+1987
+33300
+8470.17
+1988
+33300 d-loss: 0.5067636966705322 g-loss: 9.23147964477539
+8470.17
+1989
+33300 d-loss: 0.5067636966705322 g-loss: 9.23147964477539
+8494.03
+1990
+33400
+8494.03
+1991
+33400
+8494.03
+1992
+33400 d-loss: 0.17406126856803894 g-loss: 6.235331058502197
+8494.03
+1993
+33400 d-loss: 0.17406126856803894 g-loss: 6.235331058502197
+8517.74
+1994
+33500
+8517.74
+1995
+33500
+8517.74
+1996
+33500 d-loss: 0.07560373842716217 g-loss: 9.011682510375977
+8517.74
+1997
+33500 d-loss: 0.07560373842716217 g-loss: 9.011682510375977
+8541.60
+1998
+33600
+8541.60
+1999
+33600
+8541.60
+2000
+33600 d-loss: 0.12218732386827469 g-loss: 5.937162399291992
+8541.60
+2001
+33600 d-loss: 0.12218732386827469 g-loss: 5.937162399291992
+8565.85
+2002
+33700
+8565.85
+2003
+33700
+8565.85
+2004
+33700 d-loss: 0.124991275370121 g-loss: 4.101718425750732
+8565.85
+2005
+33700 d-loss: 0.124991275370121 g-loss: 4.101718425750732
+8590.08
+2006
+33800
+8590.08
+2007
+33800
+8590.08
+2008
+33800 d-loss: 0.08354426175355911 g-loss: 5.295454978942871
+8590.08
+2009
+33800 d-loss: 0.08354426175355911 g-loss: 5.295454978942871
+8613.78
+2010
+33900
+8613.78
+2011
+33900
+8613.78
+2012
+33900 d-loss: 0.17199274897575378 g-loss: 3.657857656478882
+8613.78
+2013
+33900 d-loss: 0.17199274897575378 g-loss: 3.657857656478882
+8637.55
+2014
+34000
+8637.55
+2015
+34000
+8637.55
+2016
+34000 d-loss: 0.1315089464187622 g-loss: 4.949123859405518
+8637.55
+2017
+34000 d-loss: 0.1315089464187622 g-loss: 4.949123859405518
+8661.63
+2018
+34100
+8661.63
+2019
+34100
+8661.63
+2020
+34100 d-loss: 0.07217586785554886 g-loss: 5.253588676452637
+8661.63
+2021
+34100 d-loss: 0.07217586785554886 g-loss: 5.253588676452637
+8685.37
+2022
+34200
+8685.37
+2023
+34200
+8685.38
+2024
+34200 d-loss: 0.07073187083005905 g-loss: 4.853096008300781
+8685.38
+2025
+34200 d-loss: 0.07073187083005905 g-loss: 4.853096008300781
+8710.68
+2026
+34300
+8710.68
+2027
+34300
+8710.68
+2028
+34300 d-loss: 0.1255648285150528 g-loss: 4.837085723876953
+8710.68
+2029
+34300 d-loss: 0.1255648285150528 g-loss: 4.837085723876953
+8734.87
+2030
+34400
+8734.87
+2031
+34400
+8734.88
+2032
+34400 d-loss: 0.1320129632949829 g-loss: 5.25249719619751
+8734.88
+2033
+34400 d-loss: 0.1320129632949829 g-loss: 5.25249719619751
+8758.41
+2034
+34500
+8758.41
+2035
+34500
+8758.41
+2036
+34500 d-loss: 0.09353886544704437 g-loss: 5.7030792236328125
+8758.41
+2037
+34500 d-loss: 0.09353886544704437 g-loss: 5.7030792236328125
+8782.37
+2038
+34600
+8782.37
+2039
+34600
+8782.37
+2040
+34600 d-loss: 0.1058763861656189 g-loss: 5.320611000061035
+8782.37
+2041
+34600 d-loss: 0.1058763861656189 g-loss: 5.320611000061035
+8806.02
+2042
+34700
+8806.02
+2043
+34700
+8806.03
+2044
+34700 d-loss: 0.07491838932037354 g-loss: 5.946602821350098
+8806.03
+2045
+34700 d-loss: 0.07491838932037354 g-loss: 5.946602821350098
+8830.08
+2046
+34800
+8830.08
+2047
+34800
+8830.08
+2048
+34800 d-loss: 0.2020842283964157 g-loss: 4.500208377838135
+8830.08
+2049
+34800 d-loss: 0.2020842283964157 g-loss: 4.500208377838135
+8853.59
+2050
+34900
+8853.59
+2051
+34900
+8853.60
+2052
+34900 d-loss: 0.059318576008081436 g-loss: 5.090479373931885
+8853.60
+2053
+34900 d-loss: 0.059318576008081436 g-loss: 5.090479373931885
+8877.37
+2054
+35000
+8877.37
+2055
+35000
+8877.38
+2056
+35000 d-loss: 0.14858753979206085 g-loss: 6.364415645599365
+8877.38
+2057
+35000 d-loss: 0.14858753979206085 g-loss: 6.364415645599365
+8901.29
+2058
+35100
+8901.29
+2059
+35100
+8901.29
+2060
+35100 d-loss: 0.15526923537254333 g-loss: 6.544987201690674
+8901.29
+2061
+35100 d-loss: 0.15526923537254333 g-loss: 6.544987201690674
+8924.84
+2062
+35200
+8924.84
+2063
+35200
+8924.84
+2064
+35200 d-loss: 0.1681382805109024 g-loss: 6.403135299682617
+8924.84
+2065
+35200 d-loss: 0.1681382805109024 g-loss: 6.403135299682617
+8949.09
+2066
+35300
+8949.09
+2067
+35300
+8949.09
+2068
+35300 d-loss: 0.09684893488883972 g-loss: 6.753624439239502
+8949.09
+2069
+35300 d-loss: 0.09684893488883972 g-loss: 6.753624439239502
+8972.79
+2070
+35400
+8972.79
+2071
+35400
+8972.79
+2072
+35400 d-loss: 0.09161023795604706 g-loss: 11.894948959350586
+8972.79
+2073
+35400 d-loss: 0.09161023795604706 g-loss: 11.894948959350586
+8996.05
+2074
+35500
+8996.05
+2075
+35500
+8996.06
+2076
+35500 d-loss: 0.3109089732170105 g-loss: 10.691811561584473
+8996.06
+2077
+35500 d-loss: 0.3109089732170105 g-loss: 10.691811561584473
+9020.94
+2078
+35600
+9020.94
+2079
+35600
+9020.94
+2080
+35600 d-loss: 0.04544264078140259 g-loss: 10.576066970825195
+9020.94
+2081
+35600 d-loss: 0.04544264078140259 g-loss: 10.576066970825195
+9044.59
+2082
+35700
+9044.59
+2083
+35700
+9044.59
+2084
+35700 d-loss: 0.24520502984523773 g-loss: 14.932717323303223
+9044.59
+2085
+35700 d-loss: 0.24520502984523773 g-loss: 14.932717323303223
+9068.77
+2086
+35800
+9068.77
+2087
+35800
+9068.77
+2088
+35800 d-loss: 0.21792778372764587 g-loss: 11.158329010009766
+9068.77
+2089
+35800 d-loss: 0.21792778372764587 g-loss: 11.158329010009766
+9092.45
+2090
+35900
+9092.45
+2091
+35900
+9092.45
+2092
+35900 d-loss: 0.10617242753505707 g-loss: 11.201555252075195
+9092.45
+2093
+35900 d-loss: 0.10617242753505707 g-loss: 11.201555252075195
+9116.21
+2094
+36000
+9116.21
+2095
+36000
+9116.22
+2096
+36000 d-loss: 0.5032173991203308 g-loss: 8.937544822692871
+9116.22
+2097
+36000 d-loss: 0.5032173991203308 g-loss: 8.937544822692871
+9141.07
+2098
+36100
+9141.07
+2099
+36100
+9141.07
+2100
+36100 d-loss: 0.10770242661237717 g-loss: 5.4596991539001465
+9141.07
+2101
+36100 d-loss: 0.10770242661237717 g-loss: 5.4596991539001465
+9165.09
+2102
+36200
+9165.09
+2103
+36200
+9165.10
+2104
+36200 d-loss: 0.24621915817260742 g-loss: 4.827710151672363
+9165.10
+2105
+36200 d-loss: 0.24621915817260742 g-loss: 4.827710151672363
+9189.80
+2106
+36300
+9189.80
+2107
+36300
+9189.80
+2108
+36300 d-loss: 0.14834192395210266 g-loss: 5.046493053436279
+9189.80
+2109
+36300 d-loss: 0.14834192395210266 g-loss: 5.046493053436279
+9214.13
+2110
+36400
+9214.13
+2111
+36400
+9214.13
+2112
+36400 d-loss: 0.15217691659927368 g-loss: 4.8646674156188965
+9214.13
+2113
+36400 d-loss: 0.15217691659927368 g-loss: 4.8646674156188965
+9238.12
+2114
+36500
+9238.12
+2115
+36500
+9238.12
+2116
+36500 d-loss: 0.17796330153942108 g-loss: 4.576016902923584
+9238.12
+2117
+36500 d-loss: 0.17796330153942108 g-loss: 4.576016902923584
+9262.23
+2118
+36600
+9262.23
+2119
+36600
+9262.23
+2120
+36600 d-loss: 0.2163778394460678 g-loss: 5.20242977142334
+9262.23
+2121
+36600 d-loss: 0.2163778394460678 g-loss: 5.20242977142334
+9285.98
+2122
+36700
+9285.98
+2123
+36700
+9285.98
+2124
+36700 d-loss: 0.09688275307416916 g-loss: 4.622807502746582
+9285.98
+2125
+36700 d-loss: 0.09688275307416916 g-loss: 4.622807502746582
+9310.45
+2126
+36800
+9310.45
+2127
+36800
+9310.45
+2128
+36800 d-loss: 0.2744840979576111 g-loss: 11.055421829223633
+9310.45
+2129
+36800 d-loss: 0.2744840979576111 g-loss: 11.055421829223633
+9334.87
+2130
+36900
+9334.87
+2131
+36900
+9334.87
+2132
+36900 d-loss: 0.23302710056304932 g-loss: 8.301544189453125
+9334.87
+2133
+36900 d-loss: 0.23302710056304932 g-loss: 8.301544189453125
+9359.00
+2134
+37000
+9359.00
+2135
+37000
+9359.00
+2136
+37000 d-loss: 0.12122427672147751 g-loss: 6.856292724609375
+9359.00
+2137
+37000 d-loss: 0.12122427672147751 g-loss: 6.856292724609375
+9383.00
+2138
+37100
+9383.00
+2139
+37100
+9383.00
+2140
+37100 d-loss: 0.08034654706716537 g-loss: 7.9007062911987305
+9383.00
+2141
+37100 d-loss: 0.08034654706716537 g-loss: 7.9007062911987305
+9406.52
+2142
+37200
+9406.52
+2143
+37200
+9406.52
+2144
+37200 d-loss: 0.13826362788677216 g-loss: 7.336718559265137
+9406.52
+2145
+37200 d-loss: 0.13826362788677216 g-loss: 7.336718559265137
+9431.20
+2146
+37300
+9431.20
+2147
+37300
+9431.21
+2148
+37300 d-loss: 0.3526369035243988 g-loss: 9.369122505187988
+9431.21
+2149
+37300 d-loss: 0.3526369035243988 g-loss: 9.369122505187988
+9455.16
+2150
+37400
+9455.16
+2151
+37400
+9455.16
+2152
+37400 d-loss: 0.07611511647701263 g-loss: 9.570455551147461
+9455.16
+2153
+37400 d-loss: 0.07611511647701263 g-loss: 9.570455551147461
+9478.78
+2154
+37500
+9478.78
+2155
+37500
+9478.78
+2156
+37500 d-loss: 0.1541936844587326 g-loss: 11.984618186950684
+9478.78
+2157
+37500 d-loss: 0.1541936844587326 g-loss: 11.984618186950684
+9503.23
+2158
+37600
+9503.23
+2159
+37600
+9503.23
+2160
+37600 d-loss: 1.0225902795791626 g-loss: 10.622249603271484
+9503.23
+2161
+37600 d-loss: 1.0225902795791626 g-loss: 10.622249603271484
+9526.77
+2162
+37700
+9526.77
+2163
+37700
+9526.78
+2164
+37700 d-loss: 0.1804841011762619 g-loss: 5.879030227661133
+9526.78
+2165
+37700 d-loss: 0.1804841011762619 g-loss: 5.879030227661133
+9551.43
+2166
+37800
+9551.43
+2167
+37800
+9551.43
+2168
+37800 d-loss: 0.23766830563545227 g-loss: 7.908296585083008
+9551.43
+2169
+37800 d-loss: 0.23766830563545227 g-loss: 7.908296585083008
+9575.10
+2170
+37900
+9575.10
+2171
+37900
+9575.10
+2172
+37900 d-loss: 0.21717916429042816 g-loss: 7.49569034576416
+9575.10
+2173
+37900 d-loss: 0.21717916429042816 g-loss: 7.49569034576416
+9598.72
+2174
+38000
+9598.72
+2175
+38000
+9598.72
+2176
+38000 d-loss: 0.7041069865226746 g-loss: 7.537081718444824
+9598.72
+2177
+38000 d-loss: 0.7041069865226746 g-loss: 7.537081718444824
+9623.16
+2178
+38100
+9623.16
+2179
+38100
+9623.16
+2180
+38100 d-loss: 0.1993846595287323 g-loss: 5.468077659606934
+9623.16
+2181
+38100 d-loss: 0.1993846595287323 g-loss: 5.468077659606934
+9647.17
+2182
+38200
+9647.17
+2183
+38200
+9647.18
+2184
+38200 d-loss: 0.07165341079235077 g-loss: 5.177870750427246
+9647.18
+2185
+38200 d-loss: 0.07165341079235077 g-loss: 5.177870750427246
+9671.76
+2186
+38300
+9671.76
+2187
+38300
+9671.76
+2188
+38300 d-loss: 0.09734313189983368 g-loss: 4.953065395355225
+9671.76
+2189
+38300 d-loss: 0.09734313189983368 g-loss: 4.953065395355225
+9696.13
+2190
+38400
+9696.13
+2191
+38400
+9696.14
+2192
+38400 d-loss: 0.14335133135318756 g-loss: 5.51133394241333
+9696.14
+2193
+38400 d-loss: 0.14335133135318756 g-loss: 5.51133394241333
+9719.78
+2194
+38500
+9719.78
+2195
+38500
+9719.79
+2196
+38500 d-loss: 0.10083507746458054 g-loss: 4.343097686767578
+9719.79
+2197
+38500 d-loss: 0.10083507746458054 g-loss: 4.343097686767578
+9744.15
+2198
+38600
+9744.15
+2199
+38600
+9744.15
+2200
+38600 d-loss: 0.17169557511806488 g-loss: 4.592888355255127
+9744.15
+2201
+38600 d-loss: 0.17169557511806488 g-loss: 4.592888355255127
+9768.12
+2202
+38700
+9768.12
+2203
+38700
+9768.12
+2204
+38700 d-loss: 0.09278234839439392 g-loss: 4.908341407775879
+9768.12
+2205
+38700 d-loss: 0.09278234839439392 g-loss: 4.908341407775879
+9792.96
+2206
+38800
+9792.96
+2207
+38800
+9792.96
+2208
+38800 d-loss: 0.6014113426208496 g-loss: 4.9554762840271
+9792.96
+2209
+38800 d-loss: 0.6014113426208496 g-loss: 4.9554762840271
+9817.14
+2210
+38900
+9817.14
+2211
+38900
+9817.14
+2212
+38900 d-loss: 0.08818359673023224 g-loss: 4.278072357177734
+9817.14
+2213
+38900 d-loss: 0.08818359673023224 g-loss: 4.278072357177734
+9841.07
+2214
+39000
+9841.07
+2215
+39000
+9841.07
+2216
+39000 d-loss: 0.3717249631881714 g-loss: 6.154721736907959
+9841.07
+2217
+39000 d-loss: 0.3717249631881714 g-loss: 6.154721736907959
+9865.45
+2218
+39100
+9865.45
+2219
+39100
+9865.45
+2220
+39100 d-loss: 0.24923084676265717 g-loss: 7.990642070770264
+9865.45
+2221
+39100 d-loss: 0.24923084676265717 g-loss: 7.990642070770264
+9889.07
+2222
+39200
+9889.07
+2223
+39200
+9889.08
+2224
+39200 d-loss: 0.15896303951740265 g-loss: 6.444201469421387
+9889.08
+2225
+39200 d-loss: 0.15896303951740265 g-loss: 6.444201469421387
+9913.25
+2226
+39300
+9913.25
+2227
+39300
+9913.26
+2228
+39300 d-loss: 0.3092038333415985 g-loss: 2.92486310005188
+9913.26
+2229
+39300 d-loss: 0.3092038333415985 g-loss: 2.92486310005188
+9936.96
+2230
+39400
+9936.96
+2231
+39400
+9936.97
+2232
+39400 d-loss: 0.13869372010231018 g-loss: 5.204216003417969
+9936.97
+2233
+39400 d-loss: 0.13869372010231018 g-loss: 5.204216003417969
+9961.01
+2234
+39500
+9961.01
+2235
+39500
+9961.01
+2236
+39500 d-loss: 0.05317806452512741 g-loss: 5.066500186920166
+9961.01
+2237
+39500 d-loss: 0.05317806452512741 g-loss: 5.066500186920166
+9985.00
+2238
+39600
+9985.00
+2239
+39600
+9985.00
+2240
+39600 d-loss: 0.10115813463926315 g-loss: 8.376686096191406
+9985.00
+2241
+39600 d-loss: 0.10115813463926315 g-loss: 8.376686096191406
+10008.43
+2242
+39700
+10008.43
+2243
+39700
+10008.43
+2244
+39700 d-loss: 0.07785247266292572 g-loss: 8.84343147277832
+10008.43
+2245
+39700 d-loss: 0.07785247266292572 g-loss: 8.84343147277832
+10033.10
+2246
+39800
+10033.10
+2247
+39800
+10033.10
+2248
+39800 d-loss: 0.17844855785369873 g-loss: 15.24582290649414
+10033.10
+2249
+39800 d-loss: 0.17844855785369873 g-loss: 15.24582290649414
+10056.77
+2250
+39900
+10056.77
+2251
+39900
+10056.78
+2252
+39900 d-loss: 0.33549851179122925 g-loss: 12.621772766113281
+10056.78
+2253
+39900 d-loss: 0.33549851179122925 g-loss: 12.621772766113281
+10080.83
+2254
+40000
+10080.83
+2255
+40000
+10080.83
+2256
+40000 d-loss: 0.09323988854885101 g-loss: 7.882450103759766
+10080.83
+2257
+40000 d-loss: 0.09323988854885101 g-loss: 7.882450103759766
+10105.19
+2258
+40100
+10105.19
+2259
+40100
+10105.19
+2260
+40100 d-loss: 0.06888242065906525 g-loss: 10.542120933532715
+10105.19
+2261
+40100 d-loss: 0.06888242065906525 g-loss: 10.542120933532715
+10129.75
+2262
+40200
+10129.75
+2263
+40200
+10129.75
+2264
+40200 d-loss: 0.058768611401319504 g-loss: 12.281195640563965
+10129.75
+2265
+40200 d-loss: 0.058768611401319504 g-loss: 12.281195640563965
+10155.68
+2266
+40300
+10155.68
+2267
+40300
+10155.69
+2268
+40300 d-loss: 0.13654056191444397 g-loss: 13.03313159942627
+10155.69
+2269
+40300 d-loss: 0.13654056191444397 g-loss: 13.03313159942627
+10180.13
+2270
+40400
+10180.13
+2271
+40400
+10180.13
+2272
+40400 d-loss: 0.30055108666419983 g-loss: 11.819911003112793
+10180.13
+2273
+40400 d-loss: 0.30055108666419983 g-loss: 11.819911003112793
+10205.05
+2274
+40500
+10205.05
+2275
+40500
+10205.05
+2276
+40500 d-loss: 0.14819690585136414 g-loss: 14.095459938049316
+10205.05
+2277
+40500 d-loss: 0.14819690585136414 g-loss: 14.095459938049316
+10229.37
+2278
+40600
+10229.37
+2279
+40600
+10229.38
+2280
+40600 d-loss: 0.25901010632514954 g-loss: 15.423877716064453
+10229.38
+2281
+40600 d-loss: 0.25901010632514954 g-loss: 15.423877716064453
+10254.17
+2282
+40700
+10254.17
+2283
+40700
+10254.17
+2284
+40700 d-loss: 0.1638171374797821 g-loss: 9.416808128356934
+10254.17
+2285
+40700 d-loss: 0.1638171374797821 g-loss: 9.416808128356934
+10280.07
+2286
+40800
+10280.07
+2287
+40800
+10280.07
+2288
+40800 d-loss: 4.073907852172852 g-loss: 9.974255561828613
+10280.07
+2289
+40800 d-loss: 4.073907852172852 g-loss: 9.974255561828613
+10304.66
+2290
+40900
+10304.66
+2291
+40900
+10304.66
+2292
+40900 d-loss: 0.16824209690093994 g-loss: 5.458867073059082
+10304.66
+2293
+40900 d-loss: 0.16824209690093994 g-loss: 5.458867073059082
+10329.93
+2294
+41000
+10329.93
+2295
+41000
+10329.93
+2296
+41000 d-loss: 0.0827532634139061 g-loss: 5.537901401519775
+10329.93
+2297
+41000 d-loss: 0.0827532634139061 g-loss: 5.537901401519775
+10354.71
+2298
+41100
+10354.71
+2299
+41100
+10354.71
+2300
+41100 d-loss: 0.07708840072154999 g-loss: 5.620149612426758
+10354.71
+2301
+41100 d-loss: 0.07708840072154999 g-loss: 5.620149612426758
+10379.59
+2302
+41200
+10379.59
+2303
+41200
+10379.59
+2304
+41200 d-loss: 0.7333863377571106 g-loss: 10.348433494567871
+10379.59
+2305
+41200 d-loss: 0.7333863377571106 g-loss: 10.348433494567871
+10404.49
+2306
+41300
+10404.49
+2307
+41300
+10404.49
+2308
+41300 d-loss: 0.11045313626527786 g-loss: 4.38085412979126
+10404.49
+2309
+41300 d-loss: 0.11045313626527786 g-loss: 4.38085412979126
+10429.71
+2310
+41400
+10429.71
+2311
+41400
+10429.71
+2312
+41400 d-loss: 0.09026577323675156 g-loss: 6.002206802368164
+10429.71
+2313
+41400 d-loss: 0.09026577323675156 g-loss: 6.002206802368164
+10455.10
+2314
+41500
+10455.10
+2315
+41500
+10455.10
+2316
+41500 d-loss: 0.061677880585193634 g-loss: 5.545371055603027
+10455.10
+2317
+41500 d-loss: 0.061677880585193634 g-loss: 5.545371055603027
+10479.57
+2318
+41600
+10479.57
+2319
+41600
+10479.57
+2320
+41600 d-loss: 0.1660514771938324 g-loss: 4.85400390625
+10479.57
+2321
+41600 d-loss: 0.1660514771938324 g-loss: 4.85400390625
+10505.09
+2322
+41700
+10505.09
+2323
+41700
+10505.09
+2324
+41700 d-loss: 0.11305148154497147 g-loss: 7.931052207946777
+10505.09
+2325
+41700 d-loss: 0.11305148154497147 g-loss: 7.931052207946777
+10529.33
+2326
+41800
+10529.33
+2327
+41800
+10529.33
+2328
+41800 d-loss: 0.09458895027637482 g-loss: 4.6834025382995605
+10529.33
+2329
+41800 d-loss: 0.09458895027637482 g-loss: 4.6834025382995605
+10553.95
+2330
+41900
+10553.95
+2331
+41900
+10553.95
+2332
+41900 d-loss: 0.0784071832895279 g-loss: 4.778545379638672
+10553.95
+2333
+41900 d-loss: 0.0784071832895279 g-loss: 4.778545379638672
+10579.79
+2334
+42000
+10579.79
+2335
+42000
+10579.79
+2336
+42000 d-loss: 0.10848765075206757 g-loss: 4.146175861358643
+10579.79
+2337
+42000 d-loss: 0.10848765075206757 g-loss: 4.146175861358643
+10604.24
+2338
+42100
+10604.24
+2339
+42100
+10604.24
+2340
+42100 d-loss: 0.11722752451896667 g-loss: 4.411424160003662
+10604.24
+2341
+42100 d-loss: 0.11722752451896667 g-loss: 4.411424160003662
+10629.39
+2342
+42200
+10629.39
+2343
+42200
+10629.39
+2344
+42200 d-loss: 0.12284092605113983 g-loss: 5.276557922363281
+10629.39
+2345
+42200 d-loss: 0.12284092605113983 g-loss: 5.276557922363281
+10653.14
+2346
+42300
+10653.14
+2347
+42300
+10653.14
+2348
+42300 d-loss: 0.1568375825881958 g-loss: 6.386409759521484
+10653.14
+2349
+42300 d-loss: 0.1568375825881958 g-loss: 6.386409759521484
+10678.16
+2350
+42400
+10678.16
+2351
+42400
+10678.16
+2352
+42400 d-loss: 0.07433018088340759 g-loss: 5.66204833984375
+10678.16
+2353
+42400 d-loss: 0.07433018088340759 g-loss: 5.66204833984375
+10703.13
+2354
+42500
+10703.13
+2355
+42500
+10703.13
+2356
+42500 d-loss: 1.0856677293777466 g-loss: 7.011519432067871
+10703.13
+2357
+42500 d-loss: 1.0856677293777466 g-loss: 7.011519432067871
+10727.59
+2358
+42600
+10727.59
+2359
+42600
+10727.60
+2360
+42600 d-loss: 0.08465992659330368 g-loss: 4.888303756713867
+10727.60
+2361
+42600 d-loss: 0.08465992659330368 g-loss: 4.888303756713867
+10754.17
+2362
+42700
+10754.17
+2363
+42700
+10754.17
+2364
+42700 d-loss: 0.10349176079034805 g-loss: 5.531057834625244
+10754.17
+2365
+42700 d-loss: 0.10349176079034805 g-loss: 5.531057834625244
+10778.48
+2366
+42800
+10778.48
+2367
+42800
+10778.48
+2368
+42800 d-loss: 0.08398227393627167 g-loss: 7.242654800415039
+10778.48
+2369
+42800 d-loss: 0.08398227393627167 g-loss: 7.242654800415039
+10802.99
+2370
+42900
+10802.99
+2371
+42900
+10802.99
+2372
+42900 d-loss: 0.0935162901878357 g-loss: 10.248120307922363
+10802.99
+2373
+42900 d-loss: 0.0935162901878357 g-loss: 10.248120307922363
+10826.83
+2374
+43000
+10826.83
+2375
+43000
+10826.83
+2376
+43000 d-loss: 0.13917763531208038 g-loss: 9.61196517944336
+10826.83
+2377
+43000 d-loss: 0.13917763531208038 g-loss: 9.61196517944336
+10850.40
+2378
+43100
+10850.40
+2379
+43100
+10850.41
+2380
+43100 d-loss: 0.10356096178293228 g-loss: 9.266109466552734
+10850.41
+2381
+43100 d-loss: 0.10356096178293228 g-loss: 9.266109466552734
+10875.70
+2382
+43200
+10875.70
+2383
+43200
+10875.70
+2384
+43200 d-loss: 0.19745439291000366 g-loss: 3.334561347961426
+10875.70
+2385
+43200 d-loss: 0.19745439291000366 g-loss: 3.334561347961426
+10900.01
+2386
+43300
+10900.01
+2387
+43300
+10900.01
+2388
+43300 d-loss: 0.1751890480518341 g-loss: 5.244266510009766
+10900.01
+2389
+43300 d-loss: 0.1751890480518341 g-loss: 5.244266510009766
+10924.51
+2390
+43400
+10924.51
+2391
+43400
+10924.52
+2392
+43400 d-loss: 0.20575198531150818 g-loss: 7.247663974761963
+10924.52
+2393
+43400 d-loss: 0.20575198531150818 g-loss: 7.247663974761963
+10948.81
+2394
+43500
+10948.81
+2395
+43500
+10948.81
+2396
+43500 d-loss: 0.14966008067131042 g-loss: 5.289758682250977
+10948.81
+2397
+43500 d-loss: 0.14966008067131042 g-loss: 5.289758682250977
+10972.67
+2398
+43600
+10972.67
+2399
+43600
+10972.67
+2400
+43600 d-loss: 0.08982551097869873 g-loss: 4.569758892059326
+10972.67
+2401
+43600 d-loss: 0.08982551097869873 g-loss: 4.569758892059326
+10997.82
+2402
+43700
+10997.82
+2403
+43700
+10997.82
+2404
+43700 d-loss: 0.11004764586687088 g-loss: 4.3454084396362305
+10997.82
+2405
+43700 d-loss: 0.11004764586687088 g-loss: 4.3454084396362305
+11022.42
+2406
+43800
+11022.42
+2407
+43800
+11022.42
+2408
+43800 d-loss: 0.24293845891952515 g-loss: 4.175883769989014
+11022.42
+2409
+43800 d-loss: 0.24293845891952515 g-loss: 4.175883769989014
+11047.18
+2410
+43900
+11047.18
+2411
+43900
+11047.18
+2412
+43900 d-loss: 0.13627296686172485 g-loss: 5.168270587921143
+11047.18
+2413
+43900 d-loss: 0.13627296686172485 g-loss: 5.168270587921143
+11071.35
+2414
+44000
+11071.35
+2415
+44000
+11071.36
+2416
+44000 d-loss: 0.20795488357543945 g-loss: 4.714786529541016
+11071.36
+2417
+44000 d-loss: 0.20795488357543945 g-loss: 4.714786529541016
+11095.22
+2418
+44100
+11095.22
+2419
+44100
+11095.22
+2420
+44100 d-loss: 0.250983327627182 g-loss: 5.74477481842041
+11095.22
+2421
+44100 d-loss: 0.250983327627182 g-loss: 5.74477481842041
+11119.96
+2422
+44200
+11119.96
+2423
+44200
+11119.96
+2424
+44200 d-loss: 0.1113756000995636 g-loss: 5.521609306335449
+11119.96
+2425
+44200 d-loss: 0.1113756000995636 g-loss: 5.521609306335449
+11143.93
+2426
+44300
+11143.93
+2427
+44300
+11143.94
+2428
+44300 d-loss: 0.13825061917304993 g-loss: 4.692670822143555
+11143.94
+2429
+44300 d-loss: 0.13825061917304993 g-loss: 4.692670822143555
+11169.33
+2430
+44400
+11169.33
+2431
+44400
+11169.33
+2432
+44400 d-loss: 2.3386833667755127 g-loss: 3.859975814819336
+11169.33
+2433
+44400 d-loss: 2.3386833667755127 g-loss: 3.859975814819336
+11194.44
+2434
+44500
+11194.44
+2435
+44500
+11194.44
+2436
+44500 d-loss: 0.20761382579803467 g-loss: 5.240843296051025
+11194.44
+2437
+44500 d-loss: 0.20761382579803467 g-loss: 5.240843296051025
+11218.70
+2438
+44600
+11218.70
+2439
+44600
+11218.70
+2440
+44600 d-loss: 0.2002941370010376 g-loss: 4.387232780456543
+11218.70
+2441
+44600 d-loss: 0.2002941370010376 g-loss: 4.387232780456543
+11243.19
+2442
+44700
+11243.19
+2443
+44700
+11243.19
+2444
+44700 d-loss: 0.08710142225027084 g-loss: 5.725893974304199
+11243.19
+2445
+44700 d-loss: 0.08710142225027084 g-loss: 5.725893974304199
+11267.08
+2446
+44800
+11267.08
+2447
+44800
+11267.08
+2448
+44800 d-loss: 0.12409895658493042 g-loss: 4.804207801818848
+11267.08
+2449
+44800 d-loss: 0.12409895658493042 g-loss: 4.804207801818848
+11292.02
+2450
+44900
+11292.02
+2451
+44900
+11292.03
+2452
+44900 d-loss: 0.15615211427211761 g-loss: 4.534627914428711
+11292.03
+2453
+44900 d-loss: 0.15615211427211761 g-loss: 4.534627914428711
+11316.31
+2454
+45000
+11316.31
+2455
+45000
+11316.31
+2456
+45000 d-loss: 0.09492535144090652 g-loss: 6.383613586425781
+11316.31
+2457
+45000 d-loss: 0.09492535144090652 g-loss: 6.383613586425781
+11340.68
+2458
+45100
+11340.68
+2459
+45100
+11340.68
+2460
+45100 d-loss: 0.17254245281219482 g-loss: 4.897841453552246
+11340.68
+2461
+45100 d-loss: 0.17254245281219482 g-loss: 4.897841453552246
+11366.05
+2462
+45200
+11366.05
+2463
+45200
+11366.05
+2464
+45200 d-loss: 0.46910542249679565 g-loss: 5.877039432525635
+11366.05
+2465
+45200 d-loss: 0.46910542249679565 g-loss: 5.877039432525635
+11390.46
+2466
+45300
+11390.46
+2467
+45300
+11390.46
+2468
+45300 d-loss: 0.18072740733623505 g-loss: 6.734502792358398
+11390.46
+2469
+45300 d-loss: 0.18072740733623505 g-loss: 6.734502792358398
+11416.04
+2470
+45400
+11416.04
+2471
+45400
+11416.04
+2472
+45400 d-loss: 0.4176451563835144 g-loss: 11.009199142456055
+11416.04
+2473
+45400 d-loss: 0.4176451563835144 g-loss: 11.009199142456055
+11440.71
+2474
+45500
+11440.71
+2475
+45500
+11440.71
+2476
+45500 d-loss: 0.11893472820520401 g-loss: 11.061495780944824
+11440.71
+2477
+45500 d-loss: 0.11893472820520401 g-loss: 11.061495780944824
+11466.42
+2478
+45600
+11466.42
+2479
+45600
+11466.42
+2480
+45600 d-loss: 0.09811189025640488 g-loss: 14.91888427734375
+11466.42
+2481
+45600 d-loss: 0.09811189025640488 g-loss: 14.91888427734375
+11491.15
+2482
+45700
+11491.15
+2483
+45700
+11491.15
+2484
+45700 d-loss: 0.03946560621261597 g-loss: 16.516490936279297
+11491.15
+2485
+45700 d-loss: 0.03946560621261597 g-loss: 16.516490936279297
+11516.00
+2486
+45800
+11516.00
+2487
+45800
+11516.00
+2488
+45800 d-loss: 0.15783123672008514 g-loss: 10.718161582946777
+11516.00
+2489
+45800 d-loss: 0.15783123672008514 g-loss: 10.718161582946777
+11541.37
+2490
+45900
+11541.37
+2491
+45900
+11541.37
+2492
+45900 d-loss: 0.06912077218294144 g-loss: 13.098950386047363
+11541.37
+2493
+45900 d-loss: 0.06912077218294144 g-loss: 13.098950386047363
+11565.90
+2494
+46000
+11565.90
+2495
+46000
+11565.90
+2496
+46000 d-loss: 0.014330638572573662 g-loss: 12.854649543762207
+11565.90
+2497
+46000 d-loss: 0.014330638572573662 g-loss: 12.854649543762207
+11591.43
+2498
+46100
+11591.43
+2499
+46100
+11591.43
+2500
+46100 d-loss: 0.009727506898343563 g-loss: 14.030977249145508
+11591.43
+2501
+46100 d-loss: 0.009727506898343563 g-loss: 14.030977249145508
+11615.70
+2502
+46200
+11615.70
+2503
+46200
+11615.71
+2504
+46200 d-loss: 0.10881545394659042 g-loss: 19.86606788635254
+11615.71
+2505
+46200 d-loss: 0.10881545394659042 g-loss: 19.86606788635254
+11640.40
+2506
+46300
+11640.40
+2507
+46300
+11640.40
+2508
+46300 d-loss: 0.008880944922566414 g-loss: 13.158523559570312
+11640.40
+2509
+46300 d-loss: 0.008880944922566414 g-loss: 13.158523559570312
+11665.87
+2510
+46400
+11665.87
+2511
+46400
+11665.87
+2512
+46400 d-loss: 0.030601900070905685 g-loss: 11.243782043457031
+11665.87
+2513
+46400 d-loss: 0.030601900070905685 g-loss: 11.243782043457031
+11690.60
+2514
+46500
+11690.60
+2515
+46500
+11690.60
+2516
+46500 d-loss: 0.10875076055526733 g-loss: 12.921226501464844
+11690.60
+2517
+46500 d-loss: 0.10875076055526733 g-loss: 12.921226501464844
+11716.08
+2518
+46600
+11716.08
+2519
+46600
+11716.09
+2520
+46600 d-loss: 0.023527882993221283 g-loss: 12.612161636352539
+11716.09
+2521
+46600 d-loss: 0.023527882993221283 g-loss: 12.612161636352539
+11740.59
+2522
+46700
+11740.59
+2523
+46700
+11740.60
+2524
+46700 d-loss: 0.04657075181603432 g-loss: 12.61322021484375
+11740.60
+2525
+46700 d-loss: 0.04657075181603432 g-loss: 12.61322021484375
+11765.86
+2526
+46800
+11765.86
+2527
+46800
+11765.86
+2528
+46800 d-loss: 0.007114158943295479 g-loss: 14.78512954711914
+11765.86
+2529
+46800 d-loss: 0.007114158943295479 g-loss: 14.78512954711914
+11790.87
+2530
+46900
+11790.87
+2531
+46900
+11790.87
+2532
+46900 d-loss: 0.013308337889611721 g-loss: 14.712481498718262
+11790.87
+2533
+46900 d-loss: 0.013308337889611721 g-loss: 14.712481498718262
+11816.33
+2534
+47000
+11816.33
+2535
+47000
+11816.33
+2536
+47000 d-loss: 0.11833193898200989 g-loss: 15.110055923461914
+11816.33
+2537
+47000 d-loss: 0.11833193898200989 g-loss: 15.110055923461914
+11841.85
+2538
+47100
+11841.85
+2539
+47100
+11841.85
+2540
+47100 d-loss: 0.043019961565732956 g-loss: 13.371002197265625
+11841.85
+2541
+47100 d-loss: 0.043019961565732956 g-loss: 13.371002197265625
+11866.50
+2542
+47200
+11866.50
+2543
+47200
+11866.50
+2544
+47200 d-loss: 0.4147682785987854 g-loss: 13.852677345275879
+11866.50
+2545
+47200 d-loss: 0.4147682785987854 g-loss: 13.852677345275879
+11892.34
+2546
+47300
+11892.34
+2547
+47300
+11892.35
+2548
+47300 d-loss: 0.5529897809028625 g-loss: 16.182889938354492
+11892.35
+2549
+47300 d-loss: 0.5529897809028625 g-loss: 16.182889938354492
+11917.08
+2550
+47400
+11917.08
+2551
+47400
+11917.08
+2552
+47400 d-loss: 0.1960170716047287 g-loss: 8.402412414550781
+11917.08
+2553
+47400 d-loss: 0.1960170716047287 g-loss: 8.402412414550781
+11942.12
+2554
+47500
+11942.12
+2555
+47500
+11942.12
+2556
+47500 d-loss: 0.22706180810928345 g-loss: 12.657936096191406
+11942.12
+2557
+47500 d-loss: 0.22706180810928345 g-loss: 12.657936096191406
+11967.48
+2558
+47600
+11967.48
+2559
+47600
+11967.48
+2560
+47600 d-loss: 0.0660192221403122 g-loss: 9.651775360107422
+11967.48
+2561
+47600 d-loss: 0.0660192221403122 g-loss: 9.651775360107422
+11992.57
+2562
+47700
+11992.57
+2563
+47700
+11992.57
+2564
+47700 d-loss: 0.09866141527891159 g-loss: 8.274657249450684
+11992.57
+2565
+47700 d-loss: 0.09866141527891159 g-loss: 8.274657249450684
+12018.07
+2566
+47800
+12018.07
+2567
+47800
+12018.08
+2568
+47800 d-loss: 0.03132233768701553 g-loss: 8.437226295471191
+12018.08
+2569
+47800 d-loss: 0.03132233768701553 g-loss: 8.437226295471191
+12043.04
+2570
+47900
+12043.04
+2571
+47900
+12043.04
+2572
+47900 d-loss: 0.04365496337413788 g-loss: 9.195304870605469
+12043.04
+2573
+47900 d-loss: 0.04365496337413788 g-loss: 9.195304870605469
+12068.50
+2574
+48000
+12068.50
+2575
+48000
+12068.50
+2576
+48000 d-loss: 0.010330479592084885 g-loss: 9.010623931884766
+12068.50
+2577
+48000 d-loss: 0.010330479592084885 g-loss: 9.010623931884766
+12093.48
+2578
+48100
+12093.48
+2579
+48100
+12093.48
+2580
+48100 d-loss: 0.09057531505823135 g-loss: 9.275687217712402
+12093.48
+2581
+48100 d-loss: 0.09057531505823135 g-loss: 9.275687217712402
+12119.40
+2582
+48200
+12119.40
+2583
+48200
+12119.41
+2584
+48200 d-loss: 0.03893452510237694 g-loss: 8.40691089630127
+12119.41
+2585
+48200 d-loss: 0.03893452510237694 g-loss: 8.40691089630127
+12145.22
+2586
+48300
+12145.22
+2587
+48300
+12145.22
+2588
+48300 d-loss: 0.04456096142530441 g-loss: 8.935110092163086
+12145.22
+2589
+48300 d-loss: 0.04456096142530441 g-loss: 8.935110092163086
+12170.12
+2590
+48400
+12170.12
+2591
+48400
+12170.13
+2592
+48400 d-loss: 0.025268487632274628 g-loss: 9.90102481842041
+12170.13
+2593
+48400 d-loss: 0.025268487632274628 g-loss: 9.90102481842041
+12196.40
+2594
+48500
+12196.40
+2595
+48500
+12196.40
+2596
+48500 d-loss: 0.11929955333471298 g-loss: 13.382670402526855
+12196.40
+2597
+48500 d-loss: 0.11929955333471298 g-loss: 13.382670402526855
+12221.38
+2598
+48600
+12221.38
+2599
+48600
+12221.38
+2600
+48600 d-loss: 0.059867870062589645 g-loss: 8.390824317932129
+12221.38
+2601
+48600 d-loss: 0.059867870062589645 g-loss: 8.390824317932129
+12246.88
+2602
+48700
+12246.88
+2603
+48700
+12246.88
+2604
+48700 d-loss: 0.07262685894966125 g-loss: 10.497407913208008
+12246.88
+2605
+48700 d-loss: 0.07262685894966125 g-loss: 10.497407913208008
+12272.06
+2606
+48800
+12272.06
+2607
+48800
+12272.06
+2608
+48800 d-loss: 0.012445686385035515 g-loss: 10.633829116821289
+12272.06
+2609
+48800 d-loss: 0.012445686385035515 g-loss: 10.633829116821289
+12298.19
+2610
+48900
+12298.19
+2611
+48900
+12298.20
+2612
+48900 d-loss: 0.014288676902651787 g-loss: 9.783696174621582
+12298.20
+2613
+48900 d-loss: 0.014288676902651787 g-loss: 9.783696174621582
+12323.72
+2614
+49000
+12323.72
+2615
+49000
+12323.72
+2616
+49000 d-loss: 0.25041934847831726 g-loss: 14.205881118774414
+12323.72
+2617
+49000 d-loss: 0.25041934847831726 g-loss: 14.205881118774414
+12348.80
+2618
+49100
+12348.80
+2619
+49100
+12348.80
+2620
+49100 d-loss: 0.025866325944662094 g-loss: 7.862789154052734
+12348.80
+2621
+49100 d-loss: 0.025866325944662094 g-loss: 7.862789154052734
+12375.03
+2622
+49200
+12375.03
+2623
+49200
+12375.03
+2624
+49200 d-loss: 0.016454514116048813 g-loss: 6.844507694244385
+12375.03
+2625
+49200 d-loss: 0.016454514116048813 g-loss: 6.844507694244385
+12399.91
+2626
+49300
+12399.91
+2627
+49300
+12399.91
+2628
+49300 d-loss: 0.08593124151229858 g-loss: 8.946274757385254
+12399.91
+2629
+49300 d-loss: 0.08593124151229858 g-loss: 8.946274757385254
+12425.89
+2630
+49400
+12425.89
+2631
+49400
+12425.89
+2632
+49400 d-loss: 0.15177005529403687 g-loss: 11.784245491027832
+12425.89
+2633
+49400 d-loss: 0.15177005529403687 g-loss: 11.784245491027832
+12450.74
+2634
+49500
+12450.74
+2635
+49500
+12450.74
+2636
+49500 d-loss: 0.009575922042131424 g-loss: 11.349196434020996
+12450.74
+2637
+49500 d-loss: 0.009575922042131424 g-loss: 11.349196434020996
+12475.57
+2638
+49600
+12475.57
+2639
+49600
+12475.58
+2640
+49600 d-loss: 0.02307129092514515 g-loss: 8.671391487121582
+12475.58
+2641
+49600 d-loss: 0.02307129092514515 g-loss: 8.671391487121582
+12500.88
+2642
+49700
+12500.88
+2643
+49700
+12500.88
+2644
+49700 d-loss: 0.1337161809206009 g-loss: 13.946416854858398
+12500.88
+2645
+49700 d-loss: 0.1337161809206009 g-loss: 13.946416854858398
+12525.92
+2646
+49800
+12525.93
+2647
+49800 d-loss: 0.05543578416109085 g-loss: 12.44102668762207
+12551.46
+2648
+49900
+12551.46
+2649
+49900 d-loss: 0.06142725050449371 g-loss: 8.047484397888184
+12574.64
+2650
+2020-01-27 20:51:32.307009: W tensorflow/python/util/util.cc:319] Sets are not currently considered sequences, but this may change in the future, so consider avoiding using them.
+12581.68
+2651
+[NbConvertApp] Converting notebook __script__.ipynb to html
+12582.73
+2652
+[NbConvertApp] Writing 327681 bytes to __results__.html
