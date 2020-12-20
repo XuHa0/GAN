@@ -1,4 +1,4 @@
-# 就是GAN！
+# This is GAN！
 项目代码分为几块
 	1.gan.py主要是Generator和Discriminator的构建
 	2.dataset.py主要是负责导入图片数据
