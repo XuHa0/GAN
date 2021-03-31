@@ -11,9 +11,9 @@
 由于本项目是自定义图层，目前TF2.0不支持自动保存整个模型，load_gan.py中给出了恢复模型的方法。
 
 数据集下载地址：[picface | Kaggle](https://www.kaggle.com/xuha0212/picface)
-kaggle kernels地址：https://www.kaggle.com/xuha0212/kernel1bcb6cc84b
+kaggle 
 
-附GAN.pdf  WGAN.pdf帮助新入坑的同学了解相关知识。
+附GAN.pdf  WGAN.pdf帮助回忆相关知识。
 
 
 
