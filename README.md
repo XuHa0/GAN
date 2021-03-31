@@ -4,7 +4,7 @@
 	2.dataset.py主要是负责导入图片数据
 	3.gan_train.py主要是负责train部分(DCGAN)，下载好数据集，设置好图片路径和保存路径之后，可以直接运行这部分进行训练，epochs部分可以自行修改。
 
-本项目是在kaggle上进行训练的，由于kaggle kernels只能单文件训练(😂或许是因为我只会直接运行单文件)，这里将代码块进行合并为DCGAN.py。可以直接在kaggle上进行训练。
+本项目是在kaggle上进行训练。DCGAN.py可以直接在kaggle上进行训练。
 
 附WGAN.py (未在kaggle kernels上训练测试过)由于DCGAN的训练并不稳定，在运行超过20000epochs的时候，d_loss降到了零点几，但是g_loss最高却上升到了13，说明了Discriminator训练的过好，使得Generator被不断判错以至于其最后便开始乱画了。而WGAN由于加上了一个正则化项，使得training更加稳定，图片的多样性也有所增加。具体的loss输出可以参考log.txt。
 
